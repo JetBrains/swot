@@ -1,0 +1,5 @@
+Name: Central Maine Community College
+Address: 1250 Turner St, Auburn, ME 04210
+ZIP Code: 04210
+Website: https://www.cmcc.edu/
+username@cmconnect.cmcc.edu
