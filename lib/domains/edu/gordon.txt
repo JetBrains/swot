@@ -1,1 +1,0 @@
-Gordon College

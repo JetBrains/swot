@@ -1,5 +1,0 @@
-Name: Grimmelshausen Gymnasium Gelnhausen
-Website: http://grimmels.de/wordpress/
-Computer science course: http://grimmels.de/wordpress/qualifikationsphase/ (Proof that is it offered as intensive course: On the site jump to: E > Kursangebot des GGG > Leistungsfächerangebot > 
-	Aufgabenfeld III > Informatik )
-Email proof: http://grimmels.de/wordpress/kontakte/

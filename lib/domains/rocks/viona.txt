@@ -1,8 +1,0 @@
-IBB Institut für Berufliche Bildung AG
-Homepage: https://www.ibb.com/
-Contact Site: https://www.ibb.com/kontakt
-Addresses: Many places throughout  Germany
-Institute Mail Example: example@@ibb.com
-Students Mail Example: example@viona.rocks
-Course URL: https://www.ibb.com/umschulung/fachinformatiker-in-anwendungsentwicklung-umschulung
-Proof URL: https://us.ibb.com/
