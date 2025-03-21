@@ -202,7 +202,6 @@ uce.edu.ec
 ucuenca.edu.ec
 unach.edu.ec
 uniandes.edu.ec
-uta.edu.ec
 utmachala.edu.ec
 aai.edu
 aaup.edu
