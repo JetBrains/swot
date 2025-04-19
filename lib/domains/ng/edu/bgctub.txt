@@ -1,0 +1,3 @@
+University name: BGC Trust University Bangladesh,
+University email domain: bgctub.ac.bd ,
+Student email format: student_name@bgctub.ac.bd
