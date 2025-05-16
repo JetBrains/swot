@@ -595,7 +595,6 @@ vict.edu.ht
 o365.u-szeged.hu
 unibge.hu
 belajar.id
-binus.ac.id
 ecampus.ut.ac.id
 fh.unair.ac.id
 kings.ac.id
