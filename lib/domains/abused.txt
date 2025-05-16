@@ -1351,7 +1351,6 @@ york.edu
 std.antalya.edu.tr
 student.hywoman.ac.kr
 yapenhasbekasi.sch.id
-cibertec.edu.pe
 singimail.rs
 edu.hanbat.ac.kr
 harding.edu
