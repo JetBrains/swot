@@ -350,7 +350,6 @@ student.miyazaki-c.ed.jp
 alumni.berklee.edu
 alumni.cuhk.net
 uagraria.edu.ec
-connect.hku.hk
 graduate.hku.hk
 ljb.edu.hk
 student.isf.edu.hk
@@ -739,3 +738,7 @@ xku.edu.rs
 fengshan.edu.kg
 cnba.uba.ar
 tecnologicoismac.edu.ec
+ms.tpk.edu.hk
+hwawon.sen.ms.kr
+must.edu.my
+vv.edu.kg

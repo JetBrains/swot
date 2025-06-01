@@ -54,7 +54,6 @@ utecnologica.edu.bo
 aluno.multivix.edu.br
 aluno.newtonpaiva.br
 alunos.estacio.br
-pucgo.edu.br
 sempreunama.com.br
 sempreunijuazeiro.com.br
 sempreuninassau.com.br
@@ -169,7 +168,6 @@ pucmm.edu.do
 uce.edu.do
 ufhec.edu.do
 unapec.edu.do
-unicda.edu.do
 uteco.edu.do
 stu.univ-saida.dz
 univ-emir.dz
@@ -351,7 +349,6 @@ npi.edu
 nwacc.edu
 nwosu.edu
 o365.skku.edu
-occc.edu
 odessa.edu
 otc.edu
 owls.williamwoods.edu
@@ -523,7 +520,7 @@ nu.edu.eg
 oi.edu.eg
 pharm.bsu.edu.eg
 phyd.psu.edu.eg
-pme.suezuni.edu.eg
+suezuni.edu.eg
 psu.edu.eg
 sh-eng.menofia.edu.eg
 sharkia1.moe.edu.eg
@@ -580,7 +577,6 @@ edu.hmu.gr
 ee.duth.gr
 email.axc.edu.gr
 int.edu.gr
-uowm.gr
 upnet.gr
 campoalegre.edu.gt
 intecap.edu.gt
@@ -1173,7 +1169,6 @@ retired.bogazici.edu.tr
 sivas.edu.tr
 st.maltepe.edu.tr
 st.uskudar.edu.tr
-std.antalya.edu.tr
 std.izu.edu.tr
 std.neu.edu.tr
 std.nisantasi.edu.tr
@@ -1345,7 +1340,6 @@ um5.ac.ma
 fmu.edu.br
 wellesley.edu
 york.edu
-antalya.edu.tr
 hywoman.ac.kr
 yapenhasbekasi.sch.id
 cibertec.edu.pe
@@ -1409,3 +1403,5 @@ usalesiana.edu.bo
 usd.ac.id
 hosei.ac.jp
 skku.edu
+madisoncollege.edu
+uces.edu.ar
