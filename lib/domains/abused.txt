@@ -54,7 +54,6 @@ utecnologica.edu.bo
 aluno.multivix.edu.br
 aluno.newtonpaiva.br
 alunos.estacio.br
-pucgo.edu.br
 sempreunama.com.br
 sempreunijuazeiro.com.br
 sempreuninassau.com.br
@@ -169,7 +168,6 @@ pucmm.edu.do
 uce.edu.do
 ufhec.edu.do
 unapec.edu.do
-unicda.edu.do
 uteco.edu.do
 stu.univ-saida.dz
 univ-emir.dz
@@ -351,7 +349,6 @@ npi.edu
 nwacc.edu
 nwosu.edu
 o365.skku.edu
-occc.edu
 odessa.edu
 otc.edu
 owls.williamwoods.edu
@@ -373,7 +370,6 @@ sacsites.csus.edu
 sanjuancollege.edu
 sbcc.edu
 scc.stanly.edu
-sfcollege.edu
 sharif.edu
 sheridan.edu
 si.edu
@@ -524,7 +520,7 @@ nu.edu.eg
 oi.edu.eg
 pharm.bsu.edu.eg
 phyd.psu.edu.eg
-pme.suezuni.edu.eg
+suezuni.edu.eg
 psu.edu.eg
 sh-eng.menofia.edu.eg
 sharkia1.moe.edu.eg
@@ -581,7 +577,6 @@ edu.hmu.gr
 ee.duth.gr
 email.axc.edu.gr
 int.edu.gr
-uowm.gr
 upnet.gr
 campoalegre.edu.gt
 intecap.edu.gt
@@ -677,8 +672,6 @@ uopstd.edu.jo
 zu.edu.jo
 tsukuba.ac.jp
 univ.seitoku.ac.jp
-mku.ac.ke
-mylife.mku.ac.ke
 stu.kemu.ac.ke
 student.maseno.ac.ke
 student.mksu.ac.ke
@@ -824,7 +817,6 @@ alumnos365.xoc.uam.mx
 anahuac.mx
 aulamexiquense.mx
 colegio-venecia.edu.mx
-comunidad.unam.mx
 conalep.edu.mx
 conalepmex.edu.mx
 estudiantes.uv.mx
@@ -1177,7 +1169,6 @@ retired.bogazici.edu.tr
 sivas.edu.tr
 st.maltepe.edu.tr
 st.uskudar.edu.tr
-std.antalya.edu.tr
 std.izu.edu.tr
 std.neu.edu.tr
 std.nisantasi.edu.tr
@@ -1349,8 +1340,7 @@ um5.ac.ma
 fmu.edu.br
 wellesley.edu
 york.edu
-std.antalya.edu.tr
-student.hywoman.ac.kr
+hywoman.ac.kr
 yapenhasbekasi.sch.id
 cibertec.edu.pe
 singimail.rs
@@ -1405,3 +1395,19 @@ sdu.ac.kr
 amu.edu.pl
 lausd.net
 cbit.org.in
+osloskolen.no
+skhu.ac.kr
+eshte.pt
+o6u.edu.eg
+usalesiana.edu.bo
+usd.ac.id
+hosei.ac.jp
+skku.edu
+madisoncollege.edu
+uces.edu.ar
+bcu.ac.kr
+sjsu.edu
+mail.utoronto.ca
+mwu.ac.kr
+caledonian.ac.uk
+itsjapon.edu.ec
