@@ -1,3 +1,6 @@
 Adventist University of Central Africa,
-AUCA.group
-The school based in Kigali, Rwanda.
+AUCA_Gishushu.group
+The school of technology based in Kigali, Rwanda.
+School's Website: https://auca.ac.rw/
+School's email: info@auca.ac.rw
+My Academic Email: hugues.ngabonziza@auca.ac.rw
