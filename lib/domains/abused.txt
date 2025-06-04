@@ -349,7 +349,6 @@ npi.edu
 nwacc.edu
 nwosu.edu
 o365.skku.edu
-occc.edu
 odessa.edu
 otc.edu
 owls.williamwoods.edu
@@ -463,7 +462,6 @@ ustc.edu
 utexas.edu
 utrgv.edu
 valverde.edu
-vcccd.edu
 vctx.edu
 vikings.grayson.edu
 volmail.jalc.edu
@@ -1406,3 +1404,20 @@ hosei.ac.jp
 skku.edu
 madisoncollege.edu
 uces.edu.ar
+bcu.ac.kr
+sjsu.edu
+mail.utoronto.ca
+mwu.ac.kr
+caledonian.ac.uk
+itsjapon.edu.ec
+kit.ac.kr
+amaes.edu.hk
+trueharvestcollege.edu.za
+its.ac.id
+liberty.edu
+mokwon.ac.kr
+educacionbogota.edu.co
+deltauniv.edu.eg
+ulht.pt
+dgu.ac.kr
+cefet-rj.br
