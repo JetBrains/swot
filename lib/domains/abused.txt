@@ -710,7 +710,6 @@ hs.ac.kr
 hufs.ac.kr
 itc.ac.kr
 jejunu.ac.kr
-jnu.ac.kr
 jwu.ac.kr
 kdis.ac.kr
 kimpo.ac.kr
