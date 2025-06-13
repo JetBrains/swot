@@ -1,4 +1,0 @@
-Name: Amarillo College
-Address: 2011 South Washington Street, Amarillo, TX 79109
-ZIP Code: 79109
-Website: www.actx.edu

@@ -1,4 +1,0 @@
-+En: French Air Force Academy
-+Fr: Ecole de l'Air
-+
-+website: http://www.ecole-air.fr/

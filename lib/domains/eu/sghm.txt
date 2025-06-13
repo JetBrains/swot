@@ -1,8 +1,0 @@
-Schiller-Gymnasium Hameln
-
--Homepage: https://www.sghm.de
-  -The menu on the left hand side has the point Iserv sghm.eu. This is a reference to the domain, I want to register. It is used by Students in the Administration Program "IServ" at https://sghm.eu
--MINT (STEM) Concept: https://www.sghm.de/Lernen_am_Schiller/mintbereich/index.htm
-  -In "Unterricht" (Top, Center) the Computer Science Course (Informatik, IF) is listed. It is offered from grade 8-11 and as an "Abitur"/Advanced Course in grades 12 and 13.
-
-In case of any questions regarding the registration process, please contact me under christoph.barth@sghm.eu or thiemann@sghm.eu

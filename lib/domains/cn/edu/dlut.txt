@@ -1,1 +1,0 @@
-Dalian University of Technology
