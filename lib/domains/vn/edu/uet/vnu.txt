@@ -1,2 +1,3 @@
-Trường Đại học Công nghệ
-University of Engineering and Technology
+Đại học Quốc gia Hà Nội
+Vietnam National University
+.group
