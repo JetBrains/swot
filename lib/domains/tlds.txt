@@ -28,7 +28,6 @@ edu.dz
 edu.ee
 edu.er
 edu.hk
-edu.in
 edu.kz
 edu.lr
 edu.ly
