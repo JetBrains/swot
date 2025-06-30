@@ -766,4 +766,3 @@ bnu.edu.eg
 member.scau.ac.kr
 fzu.edu.kg
 uat.edu.ng
-fayettetech.edu
