@@ -767,3 +767,4 @@ fzu.edu.kg
 uat.edu.ng
 wxc.edu.kg
 gf.ukim.edu.mk
+student.mf.ukim.edu.mk
