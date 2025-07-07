@@ -770,3 +770,9 @@ student.mf.ukim.edu.mk
 khi.iba.edu.pk
 365.pnru.ac.th
 mcleon.de
+ulusiada.pt
+365.ksu.ac.th
+365.pdaba.edu.ua
+centrotec.edu.pa
+gsuite.unbosque.edu.co
+alumni.marymount.edu
