@@ -1,3 +1,0 @@
-Universidad Nacional de Colombia
-domain: unal.edu.co
-website: www.unal.edu.co
