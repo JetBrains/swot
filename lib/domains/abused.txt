@@ -1433,3 +1433,5 @@ di.uoa.gr
 psdschools.org
 yd.ac.kr
 bu.edu.eg
+365.mokwon.ac.kr
+mokwon.ac.kr
