@@ -37,9 +37,7 @@ edu.mo
 edu.mw
 edu.ni
 edu.pa
-edu.ph
 edu.pr
-edu.pt
 edu.pw
 edu.qa
 edu.sc
