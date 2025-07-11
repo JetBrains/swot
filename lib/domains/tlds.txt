@@ -21,7 +21,6 @@ edu.al
 edu.az
 edu.bb
 edu.bs
-edu.bz
 edu.ck
 edu.cn
 edu.dz
@@ -37,9 +36,7 @@ edu.mo
 edu.mw
 edu.ni
 edu.pa
-edu.ph
 edu.pr
-edu.pt
 edu.pw
 edu.qa
 edu.sc
