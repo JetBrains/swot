@@ -1,0 +1,11 @@
+School: Gymnasium Markneukirchen
+E-Mail-Suffix: gymkn.lernsax.de
+
+Proof that this school use this mail provider:
+On the page lernsax.de on the left side there a box with the text "LernSax Kennenlernen" it means get to know lernsax (Saxony's state school mail & cloud provider), plus a link with the same text. You have to click this link.
+On this new page you need to expand the section "Mehr Informationen" (more information) and then click on "Karte der LernSax-Nutzer" it shows you a map of the lernsax users. 
+On this map you have to click the third circle from the bottom (https://prnt.sc/BesE0eeZ1zYI).
+Now, you will see multiple schools with similar names, the top one is the correct one (https://prnt.sc/uf85pV1jrtm5), there is also a duplicate entry, which does not contain the link to the school's website and is seemingly outdated.
+It now shows all the information lernsax has of the school, from there you can navigate to the school homepage (https://gymnasiummarkneukirchen.de/).
+Click the "Impressium" (imprint) button at the bottom of the school homepage (https://gymnasiummarkneukirchen.de/impressum/) to check if all the data matches up with lernsax.
+"gymkn" is the shortened school name (GYMnasium MarkneukircheN), there is also a document available (in german) which details the login process to lernsax with the school provided mail address (https://gymnasiummarkneukirchen.de/wp-content/uploads/2022/11/Erstanmeldung-LernSax-Schueler.pdf) (don't be confused by the color scheme mismatch, it was changed for accessibility reasons after the document was published).
