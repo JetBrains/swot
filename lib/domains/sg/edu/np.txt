@@ -1,7 +1,0 @@
-Ngee Ann Polytechnic
-
-Official Website URL: https://www.np.edu.sg
-
-URL of a page on the official website where a long-term (>1 year) IT related course is offered
-https://www.np.edu.sg/schools-courses/academic-schools/school-of-infocomm-technology
-https://www.np.edu.sg/schools-courses/full-time-courses

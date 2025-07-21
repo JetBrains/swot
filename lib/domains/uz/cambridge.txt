@@ -1,4 +1,0 @@
-Cambridge International University in Tashkent
-Original website: cambridge.uz
-Main domain used by staff and teachers
-Subdomain student.cambridge.uz used by students and separate pull request has been created

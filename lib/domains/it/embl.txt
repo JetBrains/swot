@@ -1,4 +1,0 @@
-EMBL, Rome
-European Molecular Biology Laboratory
-URL: https://www.embl.it
-Courses: https://www.embl.org/training/
