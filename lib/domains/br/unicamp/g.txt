@@ -1,0 +1,11 @@
+Name in Portuguese: Colégio Técnico de Limeira - Unicamp
+Name in english: Technical High School of Limeira
+
+the university official website URL:
+https://www.cotil.unicamp.br/
+
+a URL of a page on the official website where a long-term (>1 year) IT related course is offered by the university:
+https://www.cotil.unicamp.br/desenvolvimento_de_sistemas/
+
+a URL of a page or some other proof (.pdf or a screenshot are OK) showing that the university recognizes the domain which you are submitting as an official email domain for the enrolled students:
+https://www.cotil.unicamp.br/google/
