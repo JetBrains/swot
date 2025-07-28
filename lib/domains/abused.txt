@@ -53,7 +53,7 @@ udivirtual.com.bo
 utecnologica.edu.bo
 aluno.multivix.edu.br
 aluno.newtonpaiva.br
-alunos.estacio.br
+estacio.br
 sempreunama.com.br
 sempreunijuazeiro.com.br
 sempreuninassau.com.br
@@ -212,7 +212,6 @@ californiacolleges.edu
 campus.mccd.edu
 case.edu
 cc.peralta.edu
-ccc.edu
 chemeketa.edu
 cit.edu
 clackamas.edu
@@ -397,7 +396,6 @@ student.annauniv.edu
 student.bccc.edu
 student.butte.edu
 student.carlalbert.edu
-student.ccc.edu
 student.centralia.edu
 student.cgcc.edu
 student.citruscollege.edu
@@ -648,7 +646,6 @@ studenti.unisr.it
 uniroma1.it
 utech.edu.jm
 vtdi.edu.jm
-aabu.edu.jo
 ammanu.edu.jo
 bau.edu.jo
 eng.just.edu.jo
@@ -1504,7 +1501,6 @@ office.ui.ac.id
 studenti.unige.it
 udd.cl
 ub.ac.id
-asu.edu.ph
 osan.ac.kr
 cku.ac.kr
 dac.unicamp.br
@@ -1512,3 +1508,10 @@ unicamp.br
 upse.edu.ec
 ticollege.org
 csuchico.edu
+derbyshire.sch.uk
+utpl.edu.ec
+dharuma.edu.mv
+365.cmu.edu.tw
+kag-erding.de
+sfcollege.edu
+utcancun.edu.mx
