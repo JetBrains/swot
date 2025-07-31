@@ -646,7 +646,6 @@ studenti.unisr.it
 uniroma1.it
 utech.edu.jm
 vtdi.edu.jm
-aabu.edu.jo
 ammanu.edu.jo
 bau.edu.jo
 eng.just.edu.jo
@@ -1502,7 +1501,6 @@ office.ui.ac.id
 studenti.unige.it
 udd.cl
 ub.ac.id
-asu.edu.ph
 osan.ac.kr
 cku.ac.kr
 dac.unicamp.br
@@ -1512,3 +1510,8 @@ ticollege.org
 csuchico.edu
 derbyshire.sch.uk
 utpl.edu.ec
+dharuma.edu.mv
+365.cmu.edu.tw
+kag-erding.de
+sfcollege.edu
+utcancun.edu.mx
