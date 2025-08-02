@@ -1,0 +1,18 @@
+damago
+
+additional info:
+- damago organizes government funded "retrainings" (German: Umschulung) for people who need to change careers. The retrainings are a shorter version (2 years) of the classic vocational training (3 years) young people do after highschool.
+- the domain for the student e-mailaccounts is damago.eu
+- the domain for the staff e-mailaccounts and the official website is damago.de
+- daily attendence on premise is required by the Jobcenters/LabourAgencies.
+- online participation is possible, but only if approved by the Berlin Jobcenters/LabourAgencies, e.g. for medical conditions.
+
+links:
+  - homepage: www.damago.de
+  - damago page about the retraining of IT professionals specialized in software development: https://www.damago.de/en/course/fachinformatiker-anwendungsentwicklung-umschulung-ihk-berlin?city=Berlin&date=148654
+  - 3 screenshots from my own damago Moodle page, where we sign in with the damago.eu e-mailaddress
+    - https://drive.google.com/file/d/1FJ0hHC7dZ6xxv9CB33a4w_bPXbQ3R4M4/view?usp=sharing
+    - https://drive.google.com/file/d/1fE9B62BUR8gfoizeZ2REdDtCyy7Y8Szq/view?usp=sharing
+    - https://drive.google.com/file/d/1z8a2qKD0d39GBxI8xhtO0dB7lZZvovH5/view?usp=sharing
+  - image of the attendence regulation page: https://drive.google.com/file/d/1mOgCYbVkGVJMvclW3lqqE6czt3SOlz8m/view?usp=sharing
+  - overview (pdf) of subjects taken until now: https://drive.google.com/file/d/157efNqqZHvpmcYUoo-AkvzrBeo1vcfAF/view?usp=sharing
