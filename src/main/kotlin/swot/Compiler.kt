@@ -11,7 +11,7 @@ object CompilationState {
     val domains = File("lib/domains/tlds.txt").readLines().toHashSet()
 }
 
-fun main(args: Array<String>) {
+fun main() {
     val root = File("lib/domains")
     root.walkTopDown().forEach {
         if (it.isFile) {
