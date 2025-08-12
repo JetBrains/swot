@@ -1495,8 +1495,8 @@ xmu.edu.my
 sju.ac.kr
 uin-suka.ac.id
 office.pohang.ac.kr
-office.ui.ac.id
-studenti.unige.it
+ui.ac.id
+unige.it
 udd.cl
 ub.ac.id
 osan.ac.kr
@@ -1532,3 +1532,12 @@ alunos.cv.unipiaget.org
 ecampus.ut.ac.id
 qaliobia4.moe.edu.eg
 iua.ci
+unitec.edu
+cbu.edu.tr
+student.sru.ac.th
+castrocarazo.ac.cr
+tcusd.net
+rlsbca.edu.in
+vecw.edu.in
+sau.ac.kr
+suezuni.edu.eg

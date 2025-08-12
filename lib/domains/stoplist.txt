@@ -333,6 +333,7 @@ alumni.vcu.edu
 alumni.virginia.edu
 alumni365.dmu.ac.uk
 alumni.undip.ac.id
+alumni.utoronto.ca
 office.undip.ac.id
 mdu.edu.rs
 nfs.edu.rs
@@ -665,7 +666,6 @@ altinbas.edu.tr
 stumail.zcs.k12.in.us
 dusit.ac.th
 nyfbox.hu
-suezuni.edu.eg
 o365.rmutp.ac.th
 wmoenglishacademy.co.in
 actonlascruces.com
@@ -808,3 +808,13 @@ correo.ux.edu.mx
 caa.columbia.edu
 athenscollege.edu.gr
 ecas.cl
+utmail.utexas.edu
+uca.edu.kg
+meve.lv
+umy.ac.id
+idueo.de
+eksu.edu.ng
+umut.edu.kg
+stu.maol.fr
+uqz.ch
+horizon.auvk.ch
