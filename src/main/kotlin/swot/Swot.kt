@@ -42,7 +42,7 @@ private fun findSchoolNames(parts: List<String>): List<String> {
 }
 
 private fun domainParts(emailOrDomain: String): List<String> {
-    return emailOrDomain.trim().toLowerCase().substringAfter('@').substringAfter("://").substringBefore(':').split('.').reversed()
+    return emailOrDomain.trim().lowercase().substringAfter('@').substringAfter("://").substringBefore(':').split('.').reversed()
 }
 
 internal fun checkSet(set: Set<String>, parts: List<String>): Boolean {
