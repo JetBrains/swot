@@ -1555,3 +1555,6 @@ office.pknu.ac.kr
 hccc.edu
 ujat.mx
 ist.edu.pk
+nlaredo.tecnm.mx
+usanmarcos.ac.cr
+uniagraria.edu.co
