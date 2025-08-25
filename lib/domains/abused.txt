@@ -739,7 +739,6 @@ yu.ac.kr
 cba.edu.kw
 paaet.edu.kw
 aust.edu.lb
-student.bau.edu.lb
 students.jinan.edu.lb
 ul.edu.lb
 live
@@ -1555,3 +1554,4 @@ tedankara.k12.tr
 office.pknu.ac.kr
 hccc.edu
 ujat.mx
+ist.edu.pk
