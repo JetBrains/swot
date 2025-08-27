@@ -598,7 +598,7 @@ mercubuana.ac.id
 mhs.its.ac.id
 my.stmikbumigora.ac.id
 office.itb.ac.id
-office.ui.ac.id
+ui.ac.id
 queens.ac.id
 sekolahnasima.sch.id
 smakstmariamalang.sch.id
@@ -739,7 +739,6 @@ yu.ac.kr
 cba.edu.kw
 paaet.edu.kw
 aust.edu.lb
-student.bau.edu.lb
 students.jinan.edu.lb
 ul.edu.lb
 live
@@ -1347,8 +1346,6 @@ idu.edu.tr
 mc-class.gr
 manipalacademyonline.edu.in
 wou.edu.my
-gsuite.bu.edu
-bu.edu
 tcdsb.ca
 northweststate.edu
 exatec.tec.mx
@@ -1546,3 +1543,21 @@ uc-bcf.edu.ph
 bau.edu.lb
 ucsf.edu.ar
 stud.rau.ro
+ucacue.edu.ec
+ibsu.edu.ge
+asu.edu.jo
+bluecc.edu
+tvcc.edu
+usm.ac.id
+erzeszow.pl
+tedankara.k12.tr
+office.pknu.ac.kr
+hccc.edu
+ujat.mx
+ist.edu.pk
+nlaredo.tecnm.mx
+usanmarcos.ac.cr
+uniagraria.edu.co
+uib.edu
+kluniversity.in
+umak.edu.ph
