@@ -416,7 +416,6 @@ horizoncc.co.uk
 p4ed.com
 cantho.edu.vn
 caugiay.edu.vn
-umak.edu.ph
 normaljujuy.edu.ar
 posgrado.unp.edu.pe
 presbiteriano.g12.br
@@ -810,3 +809,4 @@ snc.edu.pl
 ti.ues.edu.sv
 bible.ac.kr
 o365.fayoum.edu.eg
+uni-vt.bg
