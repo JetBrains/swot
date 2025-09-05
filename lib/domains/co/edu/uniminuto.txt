@@ -1,0 +1,4 @@
+Corporación Universitaria Minuto de Dios
+UniMinuto
+website: https://www.uniminuto.edu/
+Academic offers: Software Engineering, Software Development Technology, Software Development Specialization.
