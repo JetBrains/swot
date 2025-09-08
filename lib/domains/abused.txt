@@ -776,7 +776,6 @@ kbtc.edu.mm
 kmd.edu.mm
 tutaunggyi.edu.mm
 ucsdawei.edu.mm
-ucsy.edu.mm
 uit.edu.mm
 uy.edu.mm
 khugjil.edu.mn
@@ -1574,3 +1573,12 @@ bartin.edu.tr
 ptit.edu.vn
 uach.cl
 sw-ms.gne.go.kr
+aepap.edu.pt
+gcu.ac.kr
+istitutofreud.it
+epu.edu.vn
+sonatech.ac.in
+itpln.ac.id
+um.ac.id
+ksu.edu.sa
+itcancun.edu.mx

@@ -2,7 +2,6 @@ ac.be
 ac.gg
 ac.gn
 ac.il
-ac.in
 ac.me
 ac.ni
 ac.om
