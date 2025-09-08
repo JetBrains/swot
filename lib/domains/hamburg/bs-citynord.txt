@@ -1,0 +1,7 @@
+Berufliche Schule City Nord
+Homepage: https://www.bs28.hamburg/
+ContactSite: https://www.bs28.hamburg/kontakt/impressum.html
+Adress: Tessenowweg 3 22297 Hamburg Germany
+School Mail Example: example@bs-citynord.hamburg
+Reason for the Mail: School is using an Prowim/FirstClass https://www.prowim.de/login
+You can see contact Mail on the Homepage as a Proof At the Top on the right

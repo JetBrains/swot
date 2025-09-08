@@ -1,0 +1,6 @@
+Almåsgymnasiet
+Bäckängsgymnasiet
+Sven Eriksonsgymnasiet
+Viskastrandsgymnasiet
+Tullengymnasiet
+.group
