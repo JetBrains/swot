@@ -1,0 +1,6 @@
+Sint-Lievenscollege Business
+Website: slcb.be   redirects to our old domain vhsj.be, we are creating at the moment a new website under our new name slcb.
+Location: Gent, Belgium
+Course: http://www.vhsj.be/sint-joris/index.php?p=130
+We have students 17-18-19 years old who learn C#, Javascript, PHP, PowerShell, ... in two years at our school in the courses IT and Networking.
+Proof of @slcb.be: http://www.vhsj.be/sint-joris/index.php?p=158

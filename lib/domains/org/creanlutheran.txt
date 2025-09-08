@@ -1,0 +1,7 @@
+Crean Lutheran High School
+
+School Website: https://creanlutheran.org
+Staff Email Domain: creanlutheran.org
+Student Email Domain stu.creanlutheran.org
+
+Question: Our student email domain restricts emails outside of our domain. What email(s) from jetbrains do we need to whitelist so that they can access pycharm?

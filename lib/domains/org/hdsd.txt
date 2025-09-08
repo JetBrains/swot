@@ -1,0 +1,10 @@
+Hillsboro - Deering High School
+
+We are a small 9-12 school in western NH, US.  We offer AP/ college CS courses as well as a developing FRC Robotics team. 
+
+Our school website is...
+http://hdhs.hdsd.org/pages/Hillsboro-Deering_High_School
+Most of our CS classrooms communicate through Google Classroom.
+
+Our frc website (it is in its infancy) is...
+https://sites.google.com/hdsd.org/oscats/home 

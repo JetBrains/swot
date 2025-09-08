@@ -1,0 +1,4 @@
+College name: Community College of Allegheny County
+College home page: https://ccac.edu
+Software development program: https://ccac.edu/Software_Development_AS.aspx
+Email domain: https://www.ccac.edu/ITS__Academic_Email_for_Students_and_Faculty.aspx
