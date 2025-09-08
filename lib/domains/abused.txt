@@ -1580,3 +1580,5 @@ epu.edu.vn
 sonatech.ac.in
 itpln.ac.id
 um.ac.id
+ksu.edu.sa
+itcancun.edu.mx
