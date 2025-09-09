@@ -3,9 +3,9 @@
 
 JetBrains uses this **swot** repository to grant free licenses for JetBrains tools to students and teachers worldwide. If your email is in one of the domains listed in this repository, you may request your free license from JetBrains. Visit http://jetbrains.com/student to request!
 
-There is `lib/domains` directory which contains a hierarchically structured list of email domains belonging to various educational institutions. The domains are mostly owned by colleges and universities, and also by groups of schools united together because they are sharing the same email domain between several institutions, such as Township High School District 211 of Cook County, Illinois.
+`lib/domains` directory contains a hierarchically structured list of email domains belonging to educational institutions. The domains are mostly owned by colleges and universities, and also by groups of schools united together because they are sharing the same email domain between several institutions, such as Township High School District 211 of Cook County, Illinois.
 
-If you know a school, college or university which is not on this list, feel free to submit a pull request to add it.
+**Please notice that some email domains were abused in the past, and we don't trust them now**. The list of such domains is in the file https://github.com/JetBrains/swot/blob/master/lib/domains/abused.txt. If you are a student with email address in an abused domain, please request your free license with GitHub or ISIC authentication at **GitHub** or **ISIC** tabs at https://www.jetbrains.com/shop/eform/students. Teachers can request their licenses with their official documents, too (**Official Document** tab at https://www.jetbrains.com/shop/eform/students.
 
 ## Which educational institutions can be added to the repository?
 
@@ -21,20 +21,17 @@ If you represent a primary or secondary school and you are certain of the necess
 
 ## How to add a domain to this repository
 
-To add a domain, make a pull request. You must be familiar with git tool or GitHub user interface in order to make a pull request.
-We will review your request, and if we accept that it meets all the following conditions then we will merge it:
+Adding a domain (e.g., `highlands.edu`) automatically includes all its subdomains (e.g., `student.highlands.edu`). Do not add subdomains separately — only the main domain is needed.
 
-1. Each domain is represented by a single `.txt` file in the repository. If there is a file `lib/domains/edu/mit.txt`, it means that an email domain `mit.edu` is included in the repository. Please note that the repository reverses the order of the name components, and also note that **.txt extension is mandatory**. Example: add file `/lib/domains/ng/edu/unaab.txt` to add a domain `unaab.edu.ng` to the repository.
+### Steps to Add a Domain: ###
+1. Fork this repository. Please use a correct Fork link on GitHub
+![image](https://github.com/user-attachments/assets/21acc808-2fbd-4f66-a934-19f3b342736c)
+2. Create a file. Each domain is represented by a single `.txt` file in the repository. Example: to add `unaab.edu.ng`, create the file `lib/domains/ng/edu/unaab.txt`. Files must have the `.txt` extension.
+3. Write the official name of the educational organization on the first line of the file. It is recommended to use the name in the native language. For example, the file `lib/domains/ng/edu/unaab.txt` has to contain a line in it: *"Federal University of Agriculture, Abeokuta"*. Other lines may optionally contain other names the university is known by, for example the name of the school in English. For domains shared by multiple institutions (e.g., a school district), please add a word `.group` as the last line.
+4. [Submit the pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
-2. Pull requests can include one or more files which you wish to add.
-
-3. Each file in the repository has to contain the name of the university, which the domain represented by the file belongs to. For example, a file `/lib/domains/ng/edu/unaab.txt` has to contain a line in it: *"Federal University of Agriculture, Abeokuta"*.
-The first line of the file has to contain the official name of the educational organization.
-Other lines can contain other names the university is known by. A university in a non-English speaking country can have a line containing the university name in their native language, and another line with the name in English.
-
-4. If the domain is shared by several institutions, such a school district domain, please add the last line starting with a dot (`.`) followed by the word "group". Example:
-`.group`
-
+We review the requests, and usually it takes three business days.
+   
 #### How to add the domain quicker
 > We merge pull requests manually and check the information which you have provided us with before merging it.
 > Thus, if you wish to make the verification process easier for us and therefore much quicker, please mention the following in your comment to the request:

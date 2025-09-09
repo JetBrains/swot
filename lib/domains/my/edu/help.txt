@@ -1,1 +1,2 @@
-Help University College
+HELP University College
+HELP University 
