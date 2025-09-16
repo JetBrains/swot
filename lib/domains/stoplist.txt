@@ -834,3 +834,4 @@ unmo.ba
 sem.ac.kr
 o365.bsru.ac.th
 st.ut.edu.sa
+fsnmv.dnu.edu.ua

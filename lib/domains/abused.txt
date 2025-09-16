@@ -259,7 +259,6 @@ hindscc.edu
 hocking.edu
 holmescc.edu
 icc.edu
-insite.4cd.edu
 iwcc.edu
 jcjc.edu
 knights.ucf.edu
@@ -271,7 +270,6 @@ library.harvard.edu
 library.osu.edu
 library.sacsites.csus.edu
 lonestar.edu
-losrios.edu
 mail.broward.edu
 mail.davistech.edu
 fresnostate.edu
@@ -1465,7 +1463,6 @@ mylife.unisa.ac.za
 mymail.sim.edu.sg
 net.iul.edu.lb
 net.usek.edu.lb
-o.cnu.ac.kr
 o365.hshs.ntpc.edu.tw
 office.ufm.edu
 office365.npust.edu.tw
@@ -1587,3 +1584,4 @@ svnu.edu.eg
 morgan.edu
 ilbc.edu.mm
 uni-vt.bg
+rmutsvmail.com
