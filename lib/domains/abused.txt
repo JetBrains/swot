@@ -1157,7 +1157,6 @@ st.maltepe.edu.tr
 st.uskudar.edu.tr
 std.izu.edu.tr
 std.neu.edu.tr
-std.nisantasi.edu.tr
 std.yildiz.edu.tr
 stu.aydin.edu.tr
 stu.khas.edu.tr
