@@ -1592,3 +1592,5 @@ payap.ac.th
 univpm.it
 etu.u-paris.fr
 u-paris.fr
+pg.edu.pl
+santotomas.cl
