@@ -104,7 +104,6 @@ udenar.edu.co
 udla.edu.co
 ul.edu.co
 unadvirtual.edu.co
-unal.edu.co
 unicoc.edu.co
 uniminuto.edu.co
 uninorte.edu.co
@@ -1492,7 +1491,6 @@ ui.ac.id
 unige.it
 udd.cl
 ub.ac.id
-osan.ac.kr
 cku.ac.kr
 dac.unicamp.br
 unicamp.br
@@ -1587,3 +1585,17 @@ uni-vt.bg
 rmutsvmail.com
 unima.ac.id
 alhikmah.edu.ng
+ipe.buet.ac.bd
+menofia.edu.eg
+pucsp.edu.br
+payap.ac.th
+univpm.it
+etu.u-paris.fr
+u-paris.fr
+pg.edu.pl
+santotomas.cl
+mmust.ac.ke
+atauni.edu.tr
+campus.economicas.uba.ar
+uba.ar
+ift.edu.vn
