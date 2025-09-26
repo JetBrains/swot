@@ -502,7 +502,6 @@ sisu.edu.cn
 gatewaycollege.lk
 kalama.k12.wa.us
 stu.nthurston.k12.wa.us
-ipe.buet.ac.bd
 caa.columbia.edu
 itc.edu.kh
 o365.lhu.edu.tw
@@ -836,3 +835,13 @@ o365.bsru.ac.th
 st.ut.edu.sa
 fsnmv.dnu.edu.ua
 stu.ecnu.edu.cn
+office365.npust.edu.tw
+eau.ac.th
+zuj.edu.jo
+gharbeia1.moe.edu.eg
+mail.hfu.edu.tw
+stust.edu.tw
+yuntech.edu.tw
+alumni.brown.edu
+ms.ift.edu.vn
+colegiolasesclavas.edu.pa
