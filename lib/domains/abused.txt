@@ -1599,3 +1599,5 @@ atauni.edu.tr
 campus.economicas.uba.ar
 uba.ar
 ift.edu.vn
+smk.belajar.id
+smkn2kraksaan.sch.id
