@@ -366,7 +366,6 @@ scc.stanly.edu
 sharif.edu
 sheridan.edu
 si.edu
-sierracollege.edu
 silpakorn.edu
 sinclair.edu
 skagit.edu
@@ -870,7 +869,6 @@ mabankisd.net
 mail.hrka.net
 mail.sio-mermoz.net
 mymail.lausd.net
-mymdc.net
 sandyupper.net
 sas-sd.net
 sotcstudent.net
@@ -1601,3 +1599,4 @@ uba.ar
 ift.edu.vn
 smkn2kraksaan.sch.id
 ecu.edu.eg
+tup.edu.ph
