@@ -573,7 +573,6 @@ oshtu.edu.kg
 oshsu.me
 osdri.me
 senacminas.edu.br
-uphsl.edu.ph
 batmu.edu.kg
 knau.edu.kg
 aa.edu.kg
@@ -843,3 +842,14 @@ mail.hfu.edu.tw
 stust.edu.tw
 yuntech.edu.tw
 alumni.brown.edu
+ms.ift.edu.vn
+colegiolasesclavas.edu.pa
+uest.edu.gr
+knu.kr
+kwus.kr
+uamericas.cl
+giza6.moe.edu.eg
+stu.hardin.kyschools.us
+oshstateuniversity.me
+pliaterytes.lt
+sies.edu.in

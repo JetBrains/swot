@@ -21,7 +21,6 @@ mi.unc.edu.ar
 philips.edu.ar
 sanluis.edu.ar
 ubp.edu.ar
-uca.edu.ar
 unimoron.edu.ar
 unla.edu.ar
 unsl.edu.ar
@@ -366,7 +365,6 @@ scc.stanly.edu
 sharif.edu
 sheridan.edu
 si.edu
-sierracollege.edu
 silpakorn.edu
 sinclair.edu
 skagit.edu
@@ -870,7 +868,6 @@ mabankisd.net
 mail.hrka.net
 mail.sio-mermoz.net
 mymail.lausd.net
-mymdc.net
 sandyupper.net
 sas-sd.net
 sotcstudent.net
@@ -1103,7 +1100,6 @@ dpu.ac.th
 kmitl.ac.th
 live.ku.th
 lpru.ac.th
-mahidol.ac.th
 mju.ac.th
 ms.kbu.ac.th
 my.buu.ac.th
@@ -1594,3 +1590,20 @@ etu.u-paris.fr
 u-paris.fr
 pg.edu.pl
 santotomas.cl
+mmust.ac.ke
+atauni.edu.tr
+campus.economicas.uba.ar
+uba.ar
+ift.edu.vn
+smkn2kraksaan.sch.id
+ecu.edu.eg
+tup.edu.ph
+etu.sorbonne-universite.fr
+uphsl.edu.ph
+uao.edu.co
+chula.ac.th
+zipernowsky.hu
+yeungnam.ac.kr
+stou.ac.th
+wwu.de
+dronacharya.info
