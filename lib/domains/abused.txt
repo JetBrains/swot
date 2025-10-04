@@ -1065,7 +1065,6 @@ rb.moe.gov.sa
 rg.moe.gov.sa
 stu.jazanu.edu.sa
 student.iatc.edu.sa
-tvtc.edu.sa
 uhb.edu.sa
 upm.edu.sa
 student.lnu.se
