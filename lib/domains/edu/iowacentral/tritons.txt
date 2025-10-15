@@ -1,0 +1,5 @@
+Name: Iowa Central Community College
+Address: One Triton Circle, Fort Dodge, IA 50501
+ZIP Code: 50501
+Website: www.iowacentral.edu
+username@tritons.iowacentral.edu
