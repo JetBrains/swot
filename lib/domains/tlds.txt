@@ -44,7 +44,6 @@ edu.sl
 edu.sy
 edu.ws
 edu.ye
-edu.zm
 es.kr
 g12.br
 hs.kr
