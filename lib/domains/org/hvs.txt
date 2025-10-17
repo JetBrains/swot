@@ -1,6 +1,0 @@
-Huron Valley Schools
-Harbor High School
-International Academy
-Lakeland High School
-Milford High School
-.group

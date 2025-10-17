@@ -1,5 +1,0 @@
-Wydział Fizyki Uniwersytetu Warszawskiego
-Faculty of Physics University of Warsaw
-# fuw.edu.pl for teachers
-# okwf.fuw.edu.pl for students
-# https://www.fuw.edu.pl/poczta.html
