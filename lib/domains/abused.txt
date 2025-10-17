@@ -881,7 +881,7 @@ abu.edu.ng
 live.unilag.edu.ng
 noun.edu.ng
 student.mau.edu.ng
-students.unilorin.edu.ng
+unilorin.edu.ng
 uniabuja.edu.ng
 unijos.edu.ng
 unn.edu.ng
@@ -1608,3 +1608,9 @@ wwu.de
 dronacharya.info
 inacapmail.cl
 uokufa.edu.iq
+pucgoias.edu.br
+pucgo.edu.br
+lyceum.lk
+edu.pucrs.br
+usm.cl
+kentech.ac.kr
