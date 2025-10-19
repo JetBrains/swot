@@ -495,7 +495,6 @@ hanma.kr
 alumni.ied.edu
 office.yonam.ac.kr
 alu.xpu.edu.cn
-zjut.edu.cn
 o365.msu.ac.th
 g.seoultech.ac.kr
 sisu.edu.cn
