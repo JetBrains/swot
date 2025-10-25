@@ -1625,3 +1625,10 @@ rit.edu
 ice.go.kr
 uth.hn
 knust.edu.gh
+pucese.edu.ec
+uty.ac.id
+duksung.ac.kr
+uitm.edu.my
+kab.ac.ug
+uphsl.edu.ph
+umindanao.edu.ph
