@@ -59,6 +59,7 @@ sch.my
 sch.om
 sch.ps
 sch.sa
+sch.id
 school.za
 ort.org.il
 k12.ak.us
