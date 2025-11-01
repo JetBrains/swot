@@ -1,0 +1,20 @@
+From 6a8b7d8e29a1e6f76a98e2a9d3b2abdbfd9e6e6a Mon Sep 17 00:00:00 2001
+From: gabrielgrac <your_email@example.com>
+Date: 2025-11-01 14:45:00 +0100
+Subject: [PATCH] fix: move ESP Bengo domain to correct ao/edu/ directory structure
+
+---
+ domains/ao.edu/espbengo.edu.ao.txt | 1 -
+ domains/ao/edu/espbengo.edu.ao.txt | 1 +
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ delete mode 100644 domains/ao.edu/espbengo.edu.ao.txt
+ create mode 100644 domains/ao/edu/espbengo.edu.ao.txt
+
+diff --git a/domains/ao.edu/espbengo.edu.ao.txt b/domains/ao.edu/espbengo.edu.ao.txt
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/domains/ao/edu/espbengo.edu.ao.txt b/domains/ao/edu/espbengo.edu.ao.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.43.0
