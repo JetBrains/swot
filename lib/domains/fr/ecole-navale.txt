@@ -1,4 +1,0 @@
-En: French Naval Academy
-Fr: Ecole Navale
-
-website: https://www.ecole-navale.fr/
