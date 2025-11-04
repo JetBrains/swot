@@ -719,7 +719,6 @@ ecole404.fr
 mail.fhsstudents.ch
 beng.bu.edu.eg
 rhedu.org.il
-mail.school3.mk.ua
 aluno.santamarcelina.edu.br
 fpm.dnulive.dp.ua
 stu.60edu.kz
@@ -874,3 +873,10 @@ monofeya1.moe.edu.eg
 spud.edu.ph
 student.pmm.edu.my
 pangasinan.uphsl.edu.ph
+alum.rit.edu
+wjfs.kz
+school3.mk.ua
+alfaunipac.com.br
+m.swu.ac.th
+erdi.swu.ac.th
+mail.rit.edu
