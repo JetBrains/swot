@@ -733,7 +733,6 @@ foxespiece.org.uk
 ds.lib.uw.edu
 gpraj.gujgov.edu.in
 mpi.dk
-bnu.edu.eg
 member.scau.ac.kr
 fzu.edu.kg
 uat.edu.ng

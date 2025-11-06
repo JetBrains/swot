@@ -1643,3 +1643,4 @@ roseville.k12.mi.us
 utp.edu.co
 tdea.edu.co
 snu.ac.kr
+bnu.edu.eg
