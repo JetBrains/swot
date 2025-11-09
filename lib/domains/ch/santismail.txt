@@ -1,1 +1,0 @@
-SANTIS Training AG
