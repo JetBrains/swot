@@ -1619,7 +1619,6 @@ alu.uap.edu.pe
 uap.edu.pe
 muet.edu.pk
 isb.edu.vn
-rit.edu
 ice.go.kr
 uth.hn
 knust.edu.gh
@@ -1640,3 +1639,18 @@ ckziu.net
 fatecie.edu.br
 swu.ac.th
 g102019.moe.edu.eg
+roseville.k12.mi.us
+utp.edu.co
+tdea.edu.co
+snu.ac.kr
+bnu.edu.eg
+rezeknestehnikums.lv
+umt.edu.my
+ipchile.cl
+pucpr.edu.br
+jmi.ac.in
+feevale.br
+alu.uabcs.mx
+uabcs.mx
+unas.edu.pe
+sies.edu.in

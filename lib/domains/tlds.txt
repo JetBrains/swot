@@ -77,7 +77,6 @@ k12.la.us
 k12.me.us
 k12.md.us
 k12.ma.us
-k12.mi.us
 k12.mn.us
 k12.ms.us
 k12.mo.us

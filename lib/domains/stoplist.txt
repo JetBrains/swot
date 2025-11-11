@@ -733,7 +733,6 @@ foxespiece.org.uk
 ds.lib.uw.edu
 gpraj.gujgov.edu.in
 mpi.dk
-bnu.edu.eg
 member.scau.ac.kr
 fzu.edu.kg
 uat.edu.ng
@@ -851,7 +850,6 @@ giza6.moe.edu.eg
 stu.hardin.kyschools.us
 oshstateuniversity.me
 pliaterytes.lt
-sies.edu.in
 nortec.edu.zm
 conkal.tecnm.mx
 nullsto.edu.pl
@@ -879,3 +877,8 @@ school3.mk.ua
 alfaunipac.com.br
 m.swu.ac.th
 erdi.swu.ac.th
+mail.rit.edu
+stu.twghwflc.edu.hk
+seb.sen.hs.kr
+bishanoi.net
+laclick.school
