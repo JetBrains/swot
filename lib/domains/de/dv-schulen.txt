@@ -1,6 +1,0 @@
-Städtische Berufsfachschule für IT-Berufe
-Städtische Berufsfachschule für Büroberufe
-Städtische Berufsfachschule für Kaufmännische Assistenten
-Städtische Fachschule für Datenverarbeitung
-Städtische Wirtschafsschule Außenstelle Grombühl
-.group
