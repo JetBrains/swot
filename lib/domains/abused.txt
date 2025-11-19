@@ -940,7 +940,6 @@ raimondi.edu.pe
 senati.pe
 sencico.edu.pe
 talento.tls.edu.pe
-ucsm.edu.pe
 unasam.edu.pe
 uncp.edu.pe
 unm.edu.pe
