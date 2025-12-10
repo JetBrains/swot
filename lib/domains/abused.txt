@@ -1132,7 +1132,6 @@ bahcesehir.edu.tr
 boun.edu.tr
 emu.edu.tr
 etu.edu.tr
-harran.edu.tr
 isik.edu.tr
 kku.edu.tr
 kmu.edu.tr
@@ -1710,3 +1709,4 @@ ogr.bandirma.edu.tr
 bandirma.edu.tr
 utmatamoros.edu.mx
 uniuyo.edu.ng
+wise.edu.jo
