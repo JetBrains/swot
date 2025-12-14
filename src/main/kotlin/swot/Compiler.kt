@@ -3,7 +3,7 @@ package swot
 import java.io.File
 
 /**
- * @author max
+ * @author test user
  */
 
 object CompilationState {
