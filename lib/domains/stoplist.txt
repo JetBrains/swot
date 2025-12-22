@@ -912,3 +912,6 @@ office.cs.ac.kr
 wsu.edu.et
 edu.moe.om
 paavai.edu.in
+eco.unrc.edu.ar
+paradox.edu.ec
+alumni.unair.ac.id
