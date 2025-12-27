@@ -8,3 +8,4 @@ build
 /lib/domains/stoplist-old.txt
 /lib/domains/stoplistsort.py
 sort_by_TLD.sh
+/.vs
