@@ -916,3 +916,7 @@ eco.unrc.edu.ar
 paradox.edu.ec
 alumni.unair.ac.id
 shu.edu.pk
+lvs.edu.bb
+mybcc.edu.bb
+ettc.tl.edu.bb
+reus.lasalle.cat

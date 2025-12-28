@@ -1725,3 +1725,5 @@ ecampus.ut.ac.id
 ut.ac.id
 daihocthudo.edu.vn
 bkacad.edu.vn
+skole.hr
+itstep.org
