@@ -17,7 +17,6 @@ ed.cr
 ed.jp
 edu.al
 edu.az
-edu.bb
 edu.bs
 edu.ck
 edu.cn
