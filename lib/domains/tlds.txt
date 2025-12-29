@@ -26,7 +26,6 @@ edu.er
 edu.hk
 edu.kz
 edu.lr
-edu.ly
 edu.mg
 edu.ml
 edu.mo
