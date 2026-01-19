@@ -1,5 +1,1 @@
-{
-  "name": "Universitas Terbuka",
-  "domain": "ut.ac.id",
-  "web_pages": ["https://www.ut.ac.id/"]
-}
+Universitas Terbuka
