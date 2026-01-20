@@ -900,7 +900,6 @@ az-npu.org
 bartoncougars.org
 bostonk12.org
 cihanuniversity.org
-dekalbschoolsga.org
 educadventista.org
 ghanacu.org
 ghazanthemprep.org
@@ -1765,3 +1764,11 @@ cascadia.edu
 student.edu.az
 univ-tlemcen.dz
 dut.udn.vn
+upana.edu.gt
+manavrachna.net
+alunos.esmaior.pt
+esmaior.pt
+mrcet.ac.in
+nrru.ac.th
+ogr.kent.edu.tr
+uom.lk
