@@ -987,3 +987,7 @@ actc.center
 adm.unand.ac.id
 adu.edu.et
 agustiniano.edu.pa
+hudson.k12.mi.us
+aesa.edu.pt
+aimst.edu.my
+akademiastudente.co.za
