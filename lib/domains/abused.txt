@@ -777,7 +777,6 @@ jamaluddin.edu.mv
 365.cleu.edu.mx
 alumno.buap.mx
 alumno.ipn.mx
-alumno.uaemex.mx
 alumno.udg.mx
 alumno.ujat.mx
 alumnos.cecyteg.edu.mx
@@ -1773,3 +1772,12 @@ nrru.ac.th
 ogr.kent.edu.tr
 uom.lk
 lums.edu.pk
+mustudent.ac.tz
+modern-academy.edu.eg
+365.ono.ac.il
+acad.fanese.edu.br
+students.amrita.edu
+aitsrajampet.ac.in
+mbitschool.com
+uvm.cl
+itisdalmine.edu.it
