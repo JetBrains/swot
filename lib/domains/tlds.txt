@@ -37,11 +37,9 @@ edu.qa
 edu.sc
 edu.sd
 edu.sh
-edu.sl
 edu.sy
 edu.ws
 edu.ye
-es.kr
 g12.br
 hs.kr
 ms.kr
