@@ -471,7 +471,6 @@ au.edu.eg
 azhar.edu.eg
 behera1.moe.edu.eg
 bsu.edu.eg
-bu.edu.eg
 buc.edu.eg
 ci.suez.edu.eg
 cis.edu.eg
@@ -484,7 +483,6 @@ el-eng.menofia.edu.eg
 eng.sohag.edu.eg
 fagr.bu.edu.eg
 fapa.bu.edu.eg
-fci.bu.edu.eg
 fcom.bu.edu.eg
 feng.bu.edu.eg
 fmed.bu.edu.eg
@@ -1399,7 +1397,6 @@ student.polinema.ac.id
 di.uoa.gr
 psdschools.org
 yd.ac.kr
-bu.edu.eg
 365.mokwon.ac.kr
 mokwon.ac.kr
 365.pdaba.edu.ua
