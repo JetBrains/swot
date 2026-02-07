@@ -1,0 +1,10 @@
+.DS_Store
+Gemfile.lock
+*.gem
+.bundle
+.idea
+.gradle
+build
+/lib/domains/stoplist-old.txt
+/lib/domains/stoplistsort.py
+sort_by_TLD.sh

@@ -1,0 +1,14 @@
+Private Berufsakademie für Aus- und Weiterbildung Passau gGmbH
+
+The BAP IT school is an institute where you can enter a 3 year apprenticeship to earn a degree as Software Engineer.
+Official website: https://it-schule-passau.de/
+
+URL with the page detailing the long-term (3 year course) "Ausbildung":
+https://it-schule-passau.de/hp412/Ausbildung.htm
+
+Student email differs from the official website URL:
+Pattern of the email would be: fi_<FirstNameInitial><LastName>@bappassau.onmicrosoft.com
+e.g. fi_cfluegel@bappassau.onmicrosoft.com
+
+Kind regards,
+Christopher Flügel

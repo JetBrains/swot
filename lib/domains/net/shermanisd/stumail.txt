@@ -1,0 +1,5 @@
+Sherman Independent School District
+Sherman, Texas
+https://www.shermanisd.net/ (institution site)
+https://www.shermanisd.net/Domain/2740 (The high school course guide contains college-level computer science classes)
+https://www.shermanisd.net/domain/2060 (Could not find proof of stumail.shermanisd.net but you can see the use of shermanisd.net, which is also included in this PR)

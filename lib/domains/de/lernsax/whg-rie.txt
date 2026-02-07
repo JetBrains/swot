@@ -1,0 +1,9 @@
+School: Werner-Heisenberg-Gymnasium Riesa
+E-Mail-Suffix: whg-rie.lernsax.de
+
+Proof that this school use this mail provider:
+On the page lernsax.de is on the left side a botton with the text "LernSax Kennenlernen" it means get to know lernsax. You have to click this button.
+On this new page is on the left side a botton with the text "Karte der LernSax-Nutzer" it shows you a map of the lernsax users. 
+On this map you have to click this circle (http://prntscr.com/ltmjc4). There are now some links one of this is the link of the school (Werner-Heisenberg-Gymnasium Riesa).
+"whg-rie" is the short form of "Werner-Heisenberg-Gymnasium Riesa". The school website uses this short form too because the school website is whg-rie.de.
+Click the "Impressium" (inprint) botton to check if the school website is whg-rie.de

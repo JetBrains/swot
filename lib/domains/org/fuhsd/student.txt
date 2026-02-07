@@ -1,0 +1,6 @@
+Cupertino High School, Cupertino, California
+Fremont High School, Sunnyvale, California
+Homestead High School, Cupertino, California
+Lynbrook High School, San Jose, California
+Monta Vista High School, Cupertino, California
+.group
