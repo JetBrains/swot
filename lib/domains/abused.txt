@@ -1806,3 +1806,5 @@ act.edu.om
 dijaki.sers.si
 edu.udla.cl
 cambria.ac.uk
+tfzr.rs
+anu.edu.eg
