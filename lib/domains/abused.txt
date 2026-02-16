@@ -919,7 +919,6 @@ uam.edu.pa
 up.ac.pa
 utp.ac.pa
 alu.uap.edu.pe
-alumnos.unp.edu.pe
 cientifica.edu.pe
 isise.edu.pe
 ms.upla.edu.pe
