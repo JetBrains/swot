@@ -919,7 +919,6 @@ uam.edu.pa
 up.ac.pa
 utp.ac.pa
 alu.uap.edu.pe
-alumnos.unp.edu.pe
 cientifica.edu.pe
 isise.edu.pe
 ms.upla.edu.pe
@@ -1337,7 +1336,6 @@ studenti.uniba.it
 untumbes.edu.pe
 dharanboodhooschool.edu.mv
 fju.edu.tw
-cobatab.edu.mx
 jsspsdubai.com
 anyang.ac.kr
 est.itsc.edu.do
@@ -1812,3 +1810,9 @@ houstonisd.org
 ceti.mx
 liveusam.edu.sv
 huce.edu.vn
+strathmore.edu
+mathiasz.hu
+ubt.edu.sa
+kstu.edu.gh
+mgmtech.org
+unisanta.br
