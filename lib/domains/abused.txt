@@ -1816,3 +1816,5 @@ ubt.edu.sa
 kstu.edu.gh
 mgmtech.org
 unisanta.br
+vsit.edu.in
+ksl.ac.ke
