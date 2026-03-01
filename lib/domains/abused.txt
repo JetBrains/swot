@@ -1295,7 +1295,6 @@ ms.hanu.edu.vn
 pdm.ac.in
 academia.umb.edu.co
 ug.edu.ec
-uniajc.edu.co
 sjbit.edu.in
 vnu.edu.vn
 uem.edu.in
