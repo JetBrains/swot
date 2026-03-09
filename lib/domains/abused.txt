@@ -311,7 +311,6 @@ my.stchas.edu
 my.stvt.edu
 my.tccd.edu
 my.uwi.edu
-my.witcc.edu
 my.yosemite.edu
 mycom.marin.edu
 mymail.aacc.edu
@@ -364,7 +363,6 @@ smail.pcd.edu
 southplainscollege.edu
 southwest.tn.edu
 spobcollege.edu
-spscc.edu
 stchas.edu
 stlcc.edu
 strose.edu
@@ -920,7 +918,6 @@ uam.edu.pa
 up.ac.pa
 utp.ac.pa
 alu.uap.edu.pe
-alumnos.unp.edu.pe
 cientifica.edu.pe
 isise.edu.pe
 ms.upla.edu.pe
@@ -1247,7 +1244,6 @@ tut4life.ac.za
 eaglesvale.ac.zw
 dadeschools.net
 uemg.br
-ptu.ac.kr
 est.emi.edu.bo
 usp.ac.fj
 me
@@ -1338,7 +1334,6 @@ studenti.uniba.it
 untumbes.edu.pe
 dharanboodhooschool.edu.mv
 fju.edu.tw
-cobatab.edu.mx
 jsspsdubai.com
 anyang.ac.kr
 est.itsc.edu.do
@@ -1557,7 +1552,6 @@ ksu.edu.sa
 itcancun.edu.mx
 sut.edu.eg
 svnu.edu.eg
-morgan.edu
 ilbc.edu.mm
 uni-vt.bg
 rmutsvmail.com
@@ -1806,3 +1800,28 @@ act.edu.om
 dijaki.sers.si
 edu.udla.cl
 cambria.ac.uk
+tfzr.rs
+anu.edu.eg
+tuxtla.tecnm.mx
+houstonisd.org
+ceti.mx
+liveusam.edu.sv
+huce.edu.vn
+strathmore.edu
+mathiasz.hu
+ubt.edu.sa
+kstu.edu.gh
+mgmtech.org
+unisanta.br
+vsit.edu.in
+ksl.ac.ke
+centrale-casablanca.ma
+alunos.unimetrocamp.edu.br
+ckziu.net
+tw.ac.kr
+ises.com.br
+viu.edu.vn
+usfa.edu.bo
+umk.ac.id
+std.umk.ac.id
+ulacit.ed.cr
