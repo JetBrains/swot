@@ -487,11 +487,9 @@ fcom.bu.edu.eg
 feng.bu.edu.eg
 fmed.bu.edu.eg
 fnur.bu.edu.eg
-foe.zu.edu.eg
 helwan.edu.eg
 kafrelsheikh2.moe.edu.eg
 kfs.edu.eg
-medicine.zu.edu.eg
 metmans.edu.eg
 miniauniv.edu.eg
 mu.edu.eg
