@@ -1037,3 +1037,4 @@ mail.rru.ac.th
 pro.kbtus.ac.kr
 colegiorefous.edu.co
 pps.umt.edu.my
+nogales.tecnm.mx
