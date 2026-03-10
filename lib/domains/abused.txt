@@ -477,7 +477,6 @@ commerce.bsu.edu.eg
 csi.edu.eg
 dmu.edu.eg
 domazhermedicine.edu.eg
-eelu.edu.eg
 el-eng.menofia.edu.eg
 eng.sohag.edu.eg
 fagr.bu.edu.eg
@@ -506,7 +505,6 @@ sharkia1.moe.edu.eg
 std.art.asu.edu.eg
 std.women.asu.edu.eg
 stud.cu.edu.eg
-student.eelu.edu.eg
 suez.edu.eg
 tanta.edu.eg
 zu.edu.eg
