@@ -363,7 +363,6 @@ smail.pcd.edu
 southplainscollege.edu
 southwest.tn.edu
 spobcollege.edu
-spscc.edu
 stchas.edu
 stlcc.edu
 strose.edu
@@ -667,7 +666,7 @@ powerbi.edu.kg
 itc.edu.kh
 rule.edu.kh
 rupp.edu.kh
-sh.bbu.edu.kh
+bbu.edu.kh
 water.itc.edu.kh
 itc.edu.khmoestudents.edu.kn
 moe.edu.kn
@@ -1553,7 +1552,6 @@ ksu.edu.sa
 itcancun.edu.mx
 sut.edu.eg
 svnu.edu.eg
-morgan.edu
 ilbc.edu.mm
 uni-vt.bg
 rmutsvmail.com
@@ -1826,3 +1824,7 @@ viu.edu.vn
 usfa.edu.bo
 umk.ac.id
 std.umk.ac.id
+ulacit.ed.cr
+mhs.ulm.ac.id
+fusdk12.net
+pi.edu.co
