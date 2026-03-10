@@ -45,13 +45,27 @@ class SwotTest : TestCase() {
         assertEquals(false, isAcademic("imposter@si.edu"))
         assertEquals(false, isAcademic("lee@mdu.edu.rs"))
 
+        for (i in 1..10) {
+            val rollNumber = generateRandomRollNumber()
+            assertEquals(true, isAcademic("$rollNumber@bbdniit.ac.in"))
+        }
         // Iran sanctions are lifted
         assertEquals(true, isAcademic("lee@acmt.ac.ir"))
+    }
+
+    private fun generateRandomRollNumber(): String {
+        val year = (18..26).random()
+        val randomPart = (1000000000L..9999999999L).random()
+        return "$year$randomPart"
     }
 
     fun testSchoolNames() {
         assertTrue(findSchoolNames("lreilly@cs.strath.ac.uk").contains("University of Strathclyde"))
         assertTrue(findSchoolNames("lreilly@cs.strath.ac.uk").contains("uka tarsadia university,bardoli"))
+        for (i in 1..10) {
+            val rollNumber = generateRandomRollNumber()
+            assertTrue(findSchoolNames("$rollNumber@bbdniit.ac.in").contains("Babu Banarasi Das Northern India Institute of Technology"))
+        }
         assertEquals("BRG Fadingerstraße Linz, Austria", findSchoolNames("lreilly@fadi.at").single())
         assertEquals("St. Petersburg State University", findSchoolNames("max@spbu.ru ").single())
         assertEquals(0, findSchoolNames("foo@shop.com").size)
