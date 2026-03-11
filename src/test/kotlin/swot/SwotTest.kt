@@ -47,6 +47,8 @@ class SwotTest : TestCase() {
 
         // Iran sanctions are lifted
         assertEquals(true, isAcademic("lee@acmt.ac.ir"))
+        // Bhilai Institute of Technology, Durg
+        assertEquals(true, isAcademic("student@bitdurg.ac.in"))
     }
 
     fun testSchoolNames() {
@@ -55,5 +57,7 @@ class SwotTest : TestCase() {
         assertEquals("BRG Fadingerstraße Linz, Austria", findSchoolNames("lreilly@fadi.at").single())
         assertEquals("St. Petersburg State University", findSchoolNames("max@spbu.ru ").single())
         assertEquals(0, findSchoolNames("foo@shop.com").size)
+        // verify new domain resolution
+        assertEquals("Bhilai Institute of Technology, Durg", findSchoolNames("user@bitdurg.ac.in").single())
     }
 }
