@@ -1038,3 +1038,7 @@ pro.kbtus.ac.kr
 colegiorefous.edu.co
 pps.umt.edu.my
 nogales.tecnm.mx
+racing.polsl.pl
+alumnos.ecam.es
+claretiano.ed.cr
+stud.vassboskovice.cz
