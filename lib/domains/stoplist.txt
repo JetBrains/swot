@@ -87,7 +87,6 @@ ict.ac.cn
 idea.edu.cn
 ipdbuu.com.cn
 itu.ac.tzbjtu.edu.cn
-jlu.edu.cn
 jmu.edu.cn
 jnu.edu.cn
 jou.edu.cn
@@ -121,7 +120,6 @@ mail2.gdut.edu.cn
 mails.cust.edu.cn
 mails.hufe.edu.cn
 mails.imnu.edu.cn
-mails.jlu.edu.cn
 mails.mmnnsf.cn
 mails.zstu.edu.cn
 masu.edu.cn
