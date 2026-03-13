@@ -1838,3 +1838,7 @@ technikumcyfrowe.onmicrosoft.com
 alumno.uaemex.mx
 stu.kln.ac.lk
 universidadean.edu.co
+pucesi.edu.ec
+fpsumma.es
+teschi.edu.mx
+alunos.cv.unipiaget.org
