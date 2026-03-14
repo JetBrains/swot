@@ -47,6 +47,10 @@ class SwotTest : TestCase() {
 
         // Iran sanctions are lifted
         assertEquals(true, isAcademic("lee@acmt.ac.ir"))
+
+        // Benha University (Egypt)
+        assertEquals(true, isAcademic("student@bu.edu.eg"))
+        assertEquals(true, isAcademic("student@fsc.bu.edu.eg"))
     }
 
     fun testSchoolNames() {
@@ -55,5 +59,6 @@ class SwotTest : TestCase() {
         assertEquals("BRG Fadingerstraße Linz, Austria", findSchoolNames("lreilly@fadi.at").single())
         assertEquals("St. Petersburg State University", findSchoolNames("max@spbu.ru ").single())
         assertEquals(0, findSchoolNames("foo@shop.com").size)
+        assertEquals("Benha University", findSchoolNames("student@bu.edu.eg").single())
     }
 }
