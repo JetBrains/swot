@@ -1,0 +1,37 @@
+name: Validate
+
+on:
+  pull_request:
+    paths:
+      - "lib/domains/**"
+
+permissions:
+  contents: read
+
+jobs:
+  validate-domains:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: 21
+          cache: gradle
+
+      - name: Validate changed domain files
+        run: |
+          git diff --name-only --diff-filter=ACMR \
+            "${{ github.event.pull_request.base.sha }}" \
+            "${{ github.sha }}" \
+            -- 'lib/domains/' > /tmp/domains.txt
+
+          if [ ! -s /tmp/domains.txt ]; then
+            echo "No domain files changed."
+            exit 0
+          fi
+
+          ./gradlew validate -PvalidateFiles=@/tmp/domains.txt
