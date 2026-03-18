@@ -1862,3 +1862,7 @@ uj.ac.za
 students.hcdsb.org
 hcdsb.org
 utp.ac.pa
+mcbs.edu.om
+mcet.in
+bufs.ac.kr
+estgv.ipv.pt
