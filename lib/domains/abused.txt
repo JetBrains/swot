@@ -1886,3 +1886,8 @@ student.unpar.ac.id
 unpar.ac.id
 unam.mx
 esgis.org
+vipsedu.in
+cberi.go.kr
+ttu.edu.gh
+gomendracollege.edu.np
+studuniroma3.onmicrosoft.com
