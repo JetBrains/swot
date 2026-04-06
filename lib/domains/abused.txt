@@ -948,7 +948,6 @@ nvsu.edu.ph
 ocgs.edu.ph
 perpetual.edu.ph
 plm.edu.ph
-pup.edu.ph
 r4a-2.deped.gov.ph
 r4a-3.deped.gov.ph
 rtu.edu.ph
@@ -1257,7 +1256,6 @@ ogr.deu.edu.tr
 gtec.ac.kr
 jmail.ac.kr
 epgunheval.edu.pe
-iskolarngbayan.pup.edu.ph
 upm.edu.my
 uptc.edu.co
 bu.ac.kr
@@ -1531,7 +1529,6 @@ vut.cz
 kmu.kr
 ulatina.net
 std-zuj.edu.jo
-pup.edu.ph
 ub.edu.ph
 bartin.edu.tr
 ptit.edu.vn
