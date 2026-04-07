@@ -1466,7 +1466,6 @@ dac.unicamp.br
 unicamp.br
 upse.edu.ec
 ticollege.org
-csuchico.edu
 derbyshire.sch.uk
 utpl.edu.ec
 dharuma.edu.mv
