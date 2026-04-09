@@ -1,0 +1,5 @@
+FH Campus Wien
+University of Applied Sciences Campus Vienna
+URL: https://portal.hcw.ac.at/studierende/aktuell.asp
+URL Official Website: https://www.hcw.ac.at/en/
+mail domain for students: xx.xx@stud.hcw.ac.at 
