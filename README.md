@@ -55,6 +55,3 @@ If the university uses several email domains in different upper-level domains (f
 
 #### Some universities have their names duplicated in the first and the second line in the respective .txt file in this repository. Shall I put the university name twice in my .txt file to have the domain added?
 No, it's not needed. However, nothing bad happens if you do it, don't worry. It does not affect our decision on your request. 
-
-##我的贡献
-这是我第一次参与开源贡献
