@@ -705,7 +705,6 @@ office.gtec.ac.kr
 office.uos.ac.kr
 office.ut.ac.kr
 office.ysc.ac.kr
-seoultech.ac.kr
 smail.kongju.ac.kr
 sookmyung.ac.kr
 st.dima.ac.kr
