@@ -234,7 +234,6 @@ etudiant.edcparis.edu
 eurasia.edu
 everettcc.edu
 fvcc.edu
-g.skku.edu
 giant.cos.edu
 go.minnstate.edu
 go.shoreline.edu
