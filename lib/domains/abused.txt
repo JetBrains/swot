@@ -596,7 +596,6 @@ student.uny.ac.id
 students.smanra.sch.id
 students.uajy.ac.id
 students.ukdw.ac.id
-students.um.ac.id
 ugm.ac.id
 uin-alauddin.ac.id
 uin-suka.ac.id
@@ -1543,7 +1542,6 @@ istitutofreud.it
 epu.edu.vn
 sonatech.ac.in
 itpln.ac.id
-um.ac.id
 ksu.edu.sa
 itcancun.edu.mx
 sut.edu.eg
