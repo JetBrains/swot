@@ -449,7 +449,6 @@ altoona.k12.wi.us
 wauwatosa.k12.wi.us
 as.edu.sa
 lanesville.k12.in.us
-student.umc.edu.dz
 edu.menofia.edu.eg
 mail.dusit.ac.th
 stu.scott.kyschools.us
@@ -1095,3 +1094,11 @@ m365.upsi.edu.my
 pusob.edu.np
 skylineschool.edu.vn
 mahasiswa.undira.ac.id
+ubo.edu.gn
+stu.intech-sud.fr
+laclick.school
+hut.edu.pa
+hunan.edu.sl
+unimak.edu.sl
+kvsroguwahati.in
+gehubx.rest
