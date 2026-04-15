@@ -592,7 +592,6 @@ student.smawirausaha.sch.id
 student.ub.ac.id
 student.unand.ac.id
 student.universitaspertamina.ac.id
-student.uny.ac.id
 students.smanra.sch.id
 students.uajy.ac.id
 students.ukdw.ac.id
@@ -603,7 +602,6 @@ uin-suka.ac.id
 umkt.ac.id
 umsida.ac.id
 unmer.ac.id
-uny.ac.id
 becbapatla.ac.in
 bnca.ac.in
 brightacademy.ac.in
@@ -1897,3 +1895,11 @@ khwopa.edu.np
 adm.emi.edu.bo
 udemex.edu.mx
 iugaza.edu.ps
+students.lrsd.org
+viu.edu.vn
+hochiminh.itrithuc.vn
+ipiaget.pt
+student.green.ac.bd
+rmutsv.ac.th
+livenau.netmarconi-galletti.it
+sumare.edu.br
