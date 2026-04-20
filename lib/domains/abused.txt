@@ -1903,3 +1903,6 @@ student.green.ac.bd
 rmutsv.ac.th
 livenau.netmarconi-galletti.it
 sumare.edu.br
+eaeat-academy.edu.eg
+hpk.edu.ua
+eufh-mail.de
