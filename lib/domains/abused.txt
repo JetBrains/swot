@@ -225,7 +225,6 @@ daytonastate.edu
 deltacollege.edu
 dillard.edu
 dragons.hutchcc.edu
-dtcc.edu
 eco.maranatha.edu
 email.phoenix.edu
 email.tjc.edu
@@ -753,7 +752,6 @@ kbtc.edu.mm
 kmd.edu.mm
 tutaunggyi.edu.mm
 ucsdawei.edu.mm
-uit.edu.mm
 uy.edu.mm
 khugjil.edu.mn
 stud.num.edu.mn
