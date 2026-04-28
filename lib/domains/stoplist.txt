@@ -169,7 +169,6 @@ std.uestc.edu.cn
 stu.ahu.edu.cn
 stu.bzuu.edu.cn
 stu.ccit.edu.cn
-stu.ccsu.edu.cn
 stu.cdut.edu.cn
 stu.cpu.edu.cn
 stu.csust.edu.cn
