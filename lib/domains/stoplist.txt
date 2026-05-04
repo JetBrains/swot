@@ -1156,3 +1156,5 @@ arh.bg.ac.rs
 webmail.uft.edu.br
 ryn.edu.pl
 soyuzbilingual.edu.pa
+libertyhighschool.eu
+alumni.umn.edu
