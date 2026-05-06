@@ -16,8 +16,6 @@ ed.ao
 ed.cr
 ed.jp
 edu.al
-edu.az
-edu.bb
 edu.bs
 edu.ck
 edu.cn
@@ -27,7 +25,6 @@ edu.er
 edu.hk
 edu.kz
 edu.lr
-edu.ly
 edu.mg
 edu.ml
 edu.mo
@@ -40,12 +37,9 @@ edu.qa
 edu.sc
 edu.sd
 edu.sh
-edu.sl
 edu.sy
 edu.ws
 edu.ye
-edu.zm
-es.kr
 g12.br
 hs.kr
 ms.kr
@@ -78,7 +72,6 @@ k12.la.us
 k12.me.us
 k12.md.us
 k12.ma.us
-k12.mi.us
 k12.mn.us
 k12.ms.us
 k12.mo.us
