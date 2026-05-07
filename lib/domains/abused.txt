@@ -163,7 +163,6 @@ stu.univ-saida.dz
 univ-emir.dz
 univ-ghardaia.dz
 donbosco.edu.ec
-espoch.edu.ec
 est.umet.edu.ec
 est.ups.edu.ec
 estudiantes.cordillera.edu.ec
@@ -225,7 +224,6 @@ daytonastate.edu
 deltacollege.edu
 dillard.edu
 dragons.hutchcc.edu
-dtcc.edu
 eco.maranatha.edu
 email.phoenix.edu
 email.tjc.edu
@@ -679,7 +677,6 @@ hj.ac.kr
 hs.ac.kr
 hufs.ac.kr
 itc.ac.kr
-jejunu.ac.kr
 jwu.ac.kr
 kdis.ac.kr
 kimpo.ac.kr
@@ -753,7 +750,6 @@ kbtc.edu.mm
 kmd.edu.mm
 tutaunggyi.edu.mm
 ucsdawei.edu.mm
-uit.edu.mm
 uy.edu.mm
 khugjil.edu.mn
 stud.num.edu.mn
@@ -1375,7 +1371,6 @@ dgu.ac.kr
 cefet-rj.br
 poltera.ac.id
 gujgov.edu.in
-pomona.edu
 nur.edu.bo
 fayettetech.edu
 my.csun.edu
@@ -1904,3 +1899,6 @@ sumare.edu.br
 eaeat-academy.edu.eg
 hpk.edu.ua
 eufh-mail.de
+inacapmail.cl
+mail.utoronto.ca
+torrens.edu.au
