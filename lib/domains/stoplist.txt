@@ -1190,3 +1190,4 @@ zut.edu.cn
 fau.edu.al
 ktgg.edu.ua
 student.gaf.ni.ac.rs
+kochanowski.radom.pl
