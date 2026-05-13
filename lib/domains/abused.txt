@@ -1182,7 +1182,6 @@ hup.edu.vn
 ictu.edu.vn
 inu.edu.vn
 ittc.edu.vn
-iuh.edu.vn
 kientruchanoi.edu.vn
 kthcm.edu.vn
 lttc.edu.vn
