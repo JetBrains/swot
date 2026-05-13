@@ -47,6 +47,7 @@ class SwotTest : TestCase() {
 
         // Iran sanctions are lifted
         assertEquals(true, isAcademic("lee@acmt.ac.ir"))
+        // 
     }
 
     fun testSchoolNames() {
