@@ -1899,3 +1899,4 @@ mail.utoronto.ca
 torrens.edu.au
 unespar.edu.br
 uchicago.edu
+ump.ac.ma
