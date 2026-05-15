@@ -1207,3 +1207,4 @@ fimif.edu.al
 fmd.edu.al
 s.kulogos.edu.al
 pucesa.edu.ec
+alumnos.udp.cl
