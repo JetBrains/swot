@@ -1066,7 +1066,6 @@ uamericas.cl
 uat.edu.ng
 ube.edu.ec
 ubo.edu.gn
-ubt.edu.sa
 uca.edu.kg
 ucass.edu.cn
 ucatolica.ac.cr
@@ -1208,3 +1207,4 @@ fmd.edu.al
 s.kulogos.edu.al
 pucesa.edu.ec
 alumnos.udp.cl
+mail.intech-sud.fr
