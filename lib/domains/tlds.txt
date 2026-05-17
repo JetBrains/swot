@@ -15,7 +15,6 @@ ac.zm
 ed.ao
 ed.cr
 ed.jp
-edu.al
 edu.bs
 edu.ck
 edu.cn
