@@ -244,7 +244,6 @@ highline.edu
 hindscc.edu
 hocking.edu
 holmescc.edu
-icc.edu
 iwcc.edu
 jcjc.edu
 knights.ucf.edu
@@ -957,7 +956,6 @@ csn.edu.pk
 cuiatd.edu.pk
 dsu.edu.pk
 isbstudent.comsats.edu.pk
-iub.edu.pk
 khi.iba.edu.pk
 kps.edu.pk
 mail.au.edu.pk
@@ -1901,3 +1899,5 @@ unespar.edu.br
 uchicago.edu
 ump.ac.ma
 ubt.edu.sa
+bible.ac.kr
+wrdsb.ca
