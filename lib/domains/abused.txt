@@ -1036,7 +1036,6 @@ rg.moe.gov.sa
 stu.jazanu.edu.sa
 student.iatc.edu.sa
 tvtc.edu.sa
-uhb.edu.sa
 upm.edu.sa
 student.lnu.se
 connect.ite.edu.sg
@@ -1901,3 +1900,4 @@ ump.ac.ma
 ubt.edu.sa
 bible.ac.kr
 wrdsb.ca
+alumni.deccansociety.org
