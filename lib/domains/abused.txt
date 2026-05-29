@@ -244,7 +244,6 @@ highline.edu
 hindscc.edu
 hocking.edu
 holmescc.edu
-icc.edu
 iwcc.edu
 jcjc.edu
 knights.ucf.edu
@@ -1037,7 +1036,6 @@ rg.moe.gov.sa
 stu.jazanu.edu.sa
 student.iatc.edu.sa
 tvtc.edu.sa
-uhb.edu.sa
 upm.edu.sa
 student.lnu.se
 connect.ite.edu.sg
@@ -1900,3 +1898,7 @@ unespar.edu.br
 uchicago.edu
 ump.ac.ma
 ubt.edu.sa
+bible.ac.kr
+wrdsb.ca
+alumni.deccansociety.org
+eab.tsu.edu.ge
