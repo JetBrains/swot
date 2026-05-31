@@ -1902,3 +1902,7 @@ bible.ac.kr
 wrdsb.ca
 alumni.deccansociety.org
 eab.tsu.edu.ge
+student.polbeng.ac.id
+uniba-bpn.ac.id
+polbeng.ac.id
+student.uin-suka.ac.id
