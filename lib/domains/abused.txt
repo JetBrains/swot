@@ -66,7 +66,6 @@ unilu.ac.cd
 cf
 fh-htachur.ch
 selise.ch
-seu.edu.cn
 campusucc.edu.co
 campusvirtual.aunarvillavicencio.edu.co
 colc.co
@@ -210,7 +209,6 @@ clatsopcc.edu
 clpccd.edu
 coastalbend.edu
 cochise.edu
-colegio.univalle.edu
 com.edu
 converse.edu
 cotc.edu
@@ -246,7 +244,6 @@ highline.edu
 hindscc.edu
 hocking.edu
 holmescc.edu
-icc.edu
 iwcc.edu
 jcjc.edu
 knights.ucf.edu
@@ -899,7 +896,6 @@ mpsaz.org
 secupv.org
 sekuco.org
 setsuna.eu.org
-spjain.org
 stmail.tanenbaumchat.org
 stu.cihanuniversity.org
 univ-annaba.org
@@ -960,7 +956,6 @@ csn.edu.pk
 cuiatd.edu.pk
 dsu.edu.pk
 isbstudent.comsats.edu.pk
-iub.edu.pk
 khi.iba.edu.pk
 kps.edu.pk
 mail.au.edu.pk
@@ -1041,7 +1036,6 @@ rg.moe.gov.sa
 stu.jazanu.edu.sa
 student.iatc.edu.sa
 tvtc.edu.sa
-uhb.edu.sa
 upm.edu.sa
 student.lnu.se
 connect.ite.edu.sg
@@ -1110,7 +1104,6 @@ akdeniz.edu.tr
 alum.bogazici.edu.tr
 bahcesehir.edu.tr
 boun.edu.tr
-emu.edu.tr
 etu.edu.tr
 isik.edu.tr
 kku.edu.tr
@@ -1186,7 +1179,6 @@ hup.edu.vn
 ictu.edu.vn
 inu.edu.vn
 ittc.edu.vn
-iuh.edu.vn
 kientruchanoi.edu.vn
 kthcm.edu.vn
 lttc.edu.vn
@@ -1901,3 +1893,12 @@ hpk.edu.ua
 eufh-mail.de
 inacapmail.cl
 mail.utoronto.ca
+torrens.edu.au
+unespar.edu.br
+uchicago.edu
+ump.ac.ma
+ubt.edu.sa
+bible.ac.kr
+wrdsb.ca
+alumni.deccansociety.org
+eab.tsu.edu.ge
