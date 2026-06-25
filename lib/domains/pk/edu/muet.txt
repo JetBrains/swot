@@ -1,4 +1,4 @@
-Our Universty Offical Website : https://github.com/JetBrains/swot
+Our Universty Offical Website : https://www.muet.edu.pk/
 How Universty Assign Mail : muet.edu.pk
 Note : This is out main branch of universty our sub branch muetkhp is already there so please add it 
 Thanks 
