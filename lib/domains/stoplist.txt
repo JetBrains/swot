@@ -628,7 +628,6 @@ mail.nwpu.edu.cn
 mail.rit.edu
 mail.rmutt.ac.th
 mail.rru.ac.th
-mail.sbu.ac.ir
 mail.scuec.edu.cn
 mail.sustc.edu.cn
 mail.thitcholuoc.edu.vn
@@ -854,7 +853,6 @@ santamariasaude.edu.pt
 santceloni.lasalle.cat
 sau16.org
 sbjacksonville.com
-sbu.ac.ir
 school3.mk.ua
 scnu.edu.cn
 scpc.edu.in
