@@ -1902,3 +1902,6 @@ bible.ac.kr
 wrdsb.ca
 alumni.deccansociety.org
 eab.tsu.edu.ge
+yu.edu.sa
+acoe.edu.in
+acet.ac.in
