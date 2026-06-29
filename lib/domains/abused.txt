@@ -923,7 +923,6 @@ upsjb.edu.pe
 usmp.pe
 utp.edu.pe
 batstate-u.edu.ph
-calamba.sti.edu.ph
 csu.ph
 deped.gov.ph
 dlsud.edu.ph
