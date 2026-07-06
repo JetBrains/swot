@@ -656,7 +656,6 @@ mail.dream.edu.kg
 powerbi.edu.kg
 itc.edu.kh
 rule.edu.kh
-rupp.edu.kh
 bbu.edu.kh
 water.itc.edu.kh
 itc.edu.khmoestudents.edu.kn
@@ -923,7 +922,6 @@ upsjb.edu.pe
 usmp.pe
 utp.edu.pe
 batstate-u.edu.ph
-calamba.sti.edu.ph
 csu.ph
 deped.gov.ph
 dlsud.edu.ph
@@ -1905,3 +1903,4 @@ eab.tsu.edu.ge
 yu.edu.sa
 acoe.edu.in
 acet.ac.in
+urse.edu.mx
