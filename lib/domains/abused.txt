@@ -560,7 +560,6 @@ vict.edu.ht
 o365.u-szeged.hu
 unibge.hu
 belajar.id
-binus.ac.id
 ecampus.ut.ac.id
 fh.unair.ac.id
 kings.ac.id
@@ -656,7 +655,6 @@ mail.dream.edu.kg
 powerbi.edu.kg
 itc.edu.kh
 rule.edu.kh
-rupp.edu.kh
 bbu.edu.kh
 water.itc.edu.kh
 itc.edu.khmoestudents.edu.kn
@@ -979,8 +977,6 @@ web.gcu.edu.pk
 jedynka.zgora.pl
 kwiatek365.pl
 stonabemowie.edu.pl
-stud.ur.edu.pl
-uni.opole.pl
 uwarsaw.edu.pl
 rawafed.edu.ps
 rb.edu.ps
@@ -1099,7 +1095,6 @@ esprims.tn
 insat.u-carthage.tn
 issatm.u-carthage.tn
 myu.universitecentrale.tn
-akdeniz.edu.tr
 alum.bogazici.edu.tr
 bahcesehir.edu.tr
 boun.edu.tr
@@ -1904,3 +1899,5 @@ eab.tsu.edu.ge
 yu.edu.sa
 acoe.edu.in
 acet.ac.in
+urse.edu.mx
+itismajo.school
