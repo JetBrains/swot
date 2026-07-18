@@ -244,7 +244,6 @@ highline.edu
 hindscc.edu
 hocking.edu
 holmescc.edu
-icc.edu
 iwcc.edu
 jcjc.edu
 knights.ucf.edu
@@ -370,7 +369,6 @@ stu.parkland.edu
 stu.templejc.edu
 stu.trenholmstate.edu
 student.angelina.edu
-student.annauniv.edu
 student.bccc.edu
 student.butte.edu
 student.centralia.edu
@@ -533,7 +531,6 @@ mancheopenschool.fr
 univ-caen.fr
 viacesi.fr
 dnmd.fun
-atsu.edu.ge
 mjj.edu.ge
 mziuri.edu.ge
 students.gov.ge
@@ -561,7 +558,6 @@ vict.edu.ht
 o365.u-szeged.hu
 unibge.hu
 belajar.id
-binus.ac.id
 ecampus.ut.ac.id
 fh.unair.ac.id
 kings.ac.id
@@ -657,7 +653,6 @@ mail.dream.edu.kg
 powerbi.edu.kg
 itc.edu.kh
 rule.edu.kh
-rupp.edu.kh
 bbu.edu.kh
 water.itc.edu.kh
 itc.edu.khmoestudents.edu.kn
@@ -924,7 +919,6 @@ upsjb.edu.pe
 usmp.pe
 utp.edu.pe
 batstate-u.edu.ph
-calamba.sti.edu.ph
 csu.ph
 deped.gov.ph
 dlsud.edu.ph
@@ -981,8 +975,6 @@ web.gcu.edu.pk
 jedynka.zgora.pl
 kwiatek365.pl
 stonabemowie.edu.pl
-stud.ur.edu.pl
-uni.opole.pl
 uwarsaw.edu.pl
 rawafed.edu.ps
 rb.edu.ps
@@ -1037,7 +1029,6 @@ rg.moe.gov.sa
 stu.jazanu.edu.sa
 student.iatc.edu.sa
 tvtc.edu.sa
-uhb.edu.sa
 upm.edu.sa
 student.lnu.se
 connect.ite.edu.sg
@@ -1102,7 +1093,6 @@ esprims.tn
 insat.u-carthage.tn
 issatm.u-carthage.tn
 myu.universitecentrale.tn
-akdeniz.edu.tr
 alum.bogazici.edu.tr
 bahcesehir.edu.tr
 boun.edu.tr
@@ -1900,3 +1890,12 @@ unespar.edu.br
 uchicago.edu
 ump.ac.ma
 ubt.edu.sa
+bible.ac.kr
+wrdsb.ca
+alumni.deccansociety.org
+eab.tsu.edu.ge
+yu.edu.sa
+acoe.edu.in
+acet.ac.in
+urse.edu.mx
+itismajo.school
