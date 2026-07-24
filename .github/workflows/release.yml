@@ -1,0 +1,30 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Compile and run Kotlin
+        run: |
+          kotlinc src/main/kotlin/swot -include-runtime -d swot.jar
+          java -jar swot.jar
+
+      - name: Move the 'latest' tag to the head commit
+        run: |
+          git tag latest
+          git push origin latest -f
+
+      - name: Release swot.txt
+        uses: softprops/action-gh-release@v1
+        with:
+          files: out/artifacts/swot.txt
+          tag_name: latest
+          body: ${{ github.event.head_commit.message }}

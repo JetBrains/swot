@@ -1,6 +1,6 @@
 -Chambre de Commerce et d'Industrie Colmar
 -Called aswell ccicampus
--Mail are formatted like : studentId@ccicampus.fr
+-Mail are formatted like : studentId@campus28.fr
 
 Official website of the school:
 http://www.ccicampus.fr/

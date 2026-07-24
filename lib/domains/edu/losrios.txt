@@ -1,8 +1,1 @@
-Los Rios Community College District
-=======
-American River College
-Cosumnes River College
-Folsom Lake College
 Sacramento City College
-.group
-

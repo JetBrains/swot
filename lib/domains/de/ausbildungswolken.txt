@@ -1,4 +1,0 @@
-E-Learning ALBBW (Annedore-Leber-Berufsbildungswerk Berlin)
-Homepage: https://moodle.ausbildungswolken.de
-3 years vocational education: https://www.albbw.de/fuer-lehrkraefte-betreuerinnen/ausbildungsangebote/berufsausbildung/informationstechnologie/
-Domain for repository: ausbildungswolken.de
