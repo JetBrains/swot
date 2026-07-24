@@ -1660,8 +1660,6 @@ u-erre.mx
 mailsv.tmu.edu.vn
 tmu.edu.vn
 mmamc.tu.edu.np
-ogr.bandirma.edu.tr
-bandirma.edu.tr
 utmatamoros.edu.mx
 uniuyo.edu.ng
 wise.edu.jo
