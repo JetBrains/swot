@@ -1,0 +1,13 @@
+### Title / Summary
+
+Add Bartin University subdomain (ogrenci.bartin.edu.tr) 
+
+### Description
+
+Please add the student email domain for Bartın University in Turkey. 
+
+* **Official Name:** Bartın Üniversitesi (Bartin University)
+* **Domain:** ogrenci.bartin.edu.tr
+* **Official Website:** https://www.bartin.edu.tr
+
+The school is a legitimate higher education institution recognized by the Council of Higher Education (YÖK) in Turkey. This addition will allow students to verify their academic status for JetBrains educational licenses.
