@@ -1,0 +1,4 @@
+Name: Eastern Wyoming College
+Address: 3200 West C Street, Torrington, WY 82240
+ZIP Code: 82240
+Website: www.ewc.wy.edu

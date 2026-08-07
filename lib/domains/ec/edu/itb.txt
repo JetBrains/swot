@@ -1,2 +1,3 @@
-Instituto Universitario Superior Bolivariano
-Bolivarian University Institute
+Instituto Tecnológico Bolivariano
+
+Domain: @itb.edu.ec
