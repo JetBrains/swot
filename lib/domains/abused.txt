@@ -1906,3 +1906,4 @@ mitid.edu.in
 krmu.edu.in
 aec.edu.in
 unicuc.mx
+bue.edu.eg
