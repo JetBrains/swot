@@ -502,9 +502,6 @@ zu.edu.eg
 email
 siswa.email
 acarballeira.es
-alu.uma.es
-alum.uca.es
-alum.us.es
 alumnos.uvigo.es
 campus.eug.es
 ceuandalucia.es
@@ -514,8 +511,6 @@ educastur.es
 mail.uca.es
 mail.ucv.es
 stu.colegiotorremalmuerta.es
-uma.es
-usal.es
 amu.edu.et
 haramaya.edu.et
 edu.sorbonne-paris-nord.fr
@@ -857,12 +852,8 @@ portal.uni.edu.ni
 uraccan.edu.ni
 ninja
 zhaoqian.ninja
-commanderijcollege.nl
 eur.nl
-obcnet.nl
-obszeester.nl
 student.scalda.nl
-ubboemmius.nl
 kodeklubbenflaa.no
 fwu.edu.np
 nou.edu.np
@@ -1324,7 +1315,6 @@ sdu.ac.kr
 amu.edu.pl
 lausd.net
 cbit.org.in
-osloskolen.no
 skhu.ac.kr
 eshte.pt
 o6u.edu.eg
@@ -1498,7 +1488,6 @@ umak.edu.ph
 naa.edu.az
 usat.pe
 udb.edu.sv
-vut.cz
 kmu.kr
 ulatina.net
 std-zuj.edu.jo
@@ -1907,3 +1896,9 @@ krmu.edu.in
 aec.edu.in
 unicuc.mx
 bue.edu.eg
+cmb.ac.lk
+mydev.uome.ch
+member.scau.ac.kr
+busyschools.qld.edu.au
+buu.ac.th
+student.tusd.net
