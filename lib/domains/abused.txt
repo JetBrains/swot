@@ -1899,6 +1899,7 @@ bue.edu.eg
 cmb.ac.lk
 mydev.uome.ch
 member.scau.ac.kr
-ms.mcehassan.ac.in
 busyschools.qld.edu.au
 buu.ac.th
+student.tusd.net
+connect.hku.hk
