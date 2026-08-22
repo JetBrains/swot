@@ -1058,7 +1058,6 @@ nu.ac.th
 o365.rmutp.ac.th
 petkasem.ac.th
 pkru.ac.th
-prc.ac.th
 psu.ac.th
 rittiya.ac.th
 rmu.ac.th
