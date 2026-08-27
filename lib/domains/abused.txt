@@ -1928,3 +1928,5 @@ sliet.ac.in
 doowon.ac.kr
 iisgalilei.eu
 niu.edu
+edu.cdv.pl
+stu.pes.edu
