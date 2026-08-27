@@ -673,7 +673,6 @@ kongju.ac.kr
 kookmin.kr
 koreatech.ac.kr
 kut.ac.kr
-kyonggi.ac.kr
 mokwon.ac.kr
 o.cnu.ac.kr
 o365.tu.ac.kr
