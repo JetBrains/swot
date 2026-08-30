@@ -1286,7 +1286,6 @@ northweststate.edu
 exatec.tec.mx
 gator.uhd.edu
 uhd.edu
-my.csun.edu
 net.iul.edu.lb
 alunos.sc.senac.br
 kgu.ac.kr
@@ -1343,8 +1342,6 @@ poltera.ac.id
 gujgov.edu.in
 nur.edu.bo
 fayettetech.edu
-my.csun.edu
-csun.edu
 isbstudent.comsats.edu.pk
 comsats.edu.pk
 mcru.ac.th
