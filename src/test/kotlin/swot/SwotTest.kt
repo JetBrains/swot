@@ -56,4 +56,10 @@ class SwotTest : TestCase() {
         assertEquals("St. Petersburg State University", findSchoolNames("max@spbu.ru ").single())
         assertEquals(0, findSchoolNames("foo@shop.com").size)
     }
+
+    fun testJsutStudentDomainIsAcademic() {
+        assertTrue(isAcademic("student@smail.jsut.edu.cn"))
+        assertTrue(isAcademic("user@jsut.edu.cn"))
+        assertTrue(isAcademic("user@mail.jsut.edu.cn"))
+    }
 }
