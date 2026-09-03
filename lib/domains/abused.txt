@@ -1581,6 +1581,7 @@ umt.edu.my
 ipchile.cl
 pucpr.edu.br
 jmi.ac.in
+feevale.br
 alu.uabcs.mx
 uabcs.mx
 unas.edu.pe
