@@ -295,7 +295,6 @@ csiriicb.in
 ctgu.edu.cn
 ctrb.fab.mil.br
 cug.ac.in
-cug.edu.cn
 cumt.edu.cn
 dakahliya3.moe.edu.eg
 davidson.k12.nc.us
