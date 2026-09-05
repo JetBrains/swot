@@ -476,11 +476,9 @@ fcom.bu.edu.eg
 feng.bu.edu.eg
 fmed.bu.edu.eg
 fnur.bu.edu.eg
-foe.zu.edu.eg
 helwan.edu.eg
 kafrelsheikh2.moe.edu.eg
 kfs.edu.eg
-medicine.zu.edu.eg
 metmans.edu.eg
 miniauniv.edu.eg
 mu.edu.eg
@@ -498,7 +496,6 @@ stud.cu.edu.eg
 student.eelu.edu.eg
 suez.edu.eg
 tanta.edu.eg
-zu.edu.eg
 email
 siswa.email
 acarballeira.es
@@ -1930,3 +1927,12 @@ niu.edu
 edu.cdv.pl
 stu.pes.edu
 iser.edu.co
+vpa.ac.lk
+upagu.edu.pe
+ckik.hu
+kname.edu.ua
+student.fsre.ba
+tajamar365.com
+unisabaneta.edu.co
+unisabana.edu.co
+ms.hanu.edu.vn

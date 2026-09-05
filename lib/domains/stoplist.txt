@@ -522,7 +522,6 @@ kana.edu.kg
 kbtu.me
 kbtut.tj
 kbza.sch.ae
-kellerisd.com
 kelloggalumni.northwestern.edu
 kfs-hiet.edu.eg
 kfu.edu.cn
@@ -1343,3 +1342,19 @@ ual.pt
 zstmikolow.pl
 kaznaru.edu.kz
 vtideinze.be
+irinyi-ref.hu
+ti.edu
+office.ufm.edu
+nvr.edu.au
+nit.ac.ke
+live.snru.ac.th
+kwust.ac.ke
+lawasri.tru.ac.th
+hu.ac.th
+dornod.edu.mn
+buc.edu.om
+ch.dnu.edu.ua
+cide.edustu.ac.th
+upal.edu
+smcdsb.on.ca
+meicol.edu.co
