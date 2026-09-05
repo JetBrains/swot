@@ -598,7 +598,6 @@ m365.nycu.edu.tw
 m365.upsi.edu.my
 madrasah.kemenag.go.id
 mahasiswa.undira.ac.id
-mahasiswa.ung.ac.id
 mahemc.tu.edu.np
 mail.0du.win
 mail.aeust.edu.tw
