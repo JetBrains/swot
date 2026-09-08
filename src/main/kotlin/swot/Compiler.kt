@@ -11,9 +11,9 @@ object CompilationState {
     val domains = File("lib/domains/tlds.txt").readLines().toHashSet()
 }
 
-fun main(args: Array<String>) {
+fun main() {
     val root = File("lib/domains")
-    root.walkTopDown().forEach {
+    root.walkTopDown().toList().forEach {
         if (it.isFile) {
             val parts = it.toRelativeString(root).replace('\\', '/').removeSuffix(".txt").split('/').toList()
             if (!checkSet(CompilationState.stoplist, parts) && !checkSet(CompilationState.domains, parts)) {
