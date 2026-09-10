@@ -1,4 +1,4 @@
-mdx.ac
+﻿mdx.ac
 esoft.academy
 itstep.academy
 mbz.ens.sch.ae
@@ -29,7 +29,6 @@ sabah.edu.az
 student.edu.az
 osasmailovic.edu.ba
 oshs.edu.ba
-bup.edu.bd
 me.buet.ac.bd
 buet.ac.bd
 vu.edu.bd
