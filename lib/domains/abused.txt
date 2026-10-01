@@ -170,7 +170,6 @@ uce.edu.ec
 unach.edu.ec
 utmachala.edu.ec
 aai.edu
-aaup.edu
 acg.edu
 aim.edu
 aims.edu

@@ -1406,4 +1406,7 @@ medicine.mti.edu.eg
 trenton.k12.nj.us
 colegiosanjose.edu.pa
 mydev.uome.ch
-o365.student.uni-lj.si
+o365.student.uni-lj.sialumni.caltech.edu
+medicine.zu.edu.eg
+alumni.williams.edu
+alumni.bau.edu.tr
