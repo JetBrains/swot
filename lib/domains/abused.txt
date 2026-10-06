@@ -481,7 +481,6 @@ metmans.edu.eg
 miniauniv.edu.eg
 mu.edu.eg
 nu.edu.eg
-oi.edu.eg
 pharm.bsu.edu.eg
 phyd.psu.edu.eg
 suezuni.edu.eg
