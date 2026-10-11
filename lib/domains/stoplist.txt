@@ -1479,3 +1479,4 @@ mul.ume.cl
 office.mustnet.ac.tz
 stu.uekat.edu.pl
 zsp20.elodz.edu.pl
+ap.senac.br
