@@ -1486,3 +1486,6 @@ amg.sch.ae
 ar-lessines.be
 perins.hants.sch.uk
 kp.ac.rw
+365.udru.ac.th
+alumni.trentu.ca
+alumni.ucla.edu
