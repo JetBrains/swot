@@ -2072,3 +2072,4 @@ scholar.aku.edu
 students.berlinsbi.com
 ku.th
 ual.pt
+pucesa.edu.ec
