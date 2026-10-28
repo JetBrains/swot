@@ -1488,3 +1488,8 @@ kp.ac.rw
 alumni.trentu.ca
 alumni.ucla.edu
 unilodz.eu
+alumni-ieb.es
+binusian.org
+vjis.edu.vn
+okcx.edu.rs
+usa.priyo.edu.pl
