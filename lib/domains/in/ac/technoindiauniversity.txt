@@ -1,0 +1,3 @@
+Techno India University
+Student email domain for JetBrains Student License verification.
+Domain: technoindiauniversity.ac.in

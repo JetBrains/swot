@@ -1,0 +1,3 @@
+Wyke Sixth Form College
+Link to course https://www.wyke.ac.uk/course/computer-science
+Email of recognised email domain in footer "office@wyke.ac.uk"

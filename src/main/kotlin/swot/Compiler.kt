@@ -13,7 +13,7 @@ object CompilationState {
 
 fun main() {
     val root = File("lib/domains")
-    root.walkTopDown().forEach {
+    root.walkTopDown().toList().forEach {
         if (it.isFile) {
             val parts = it.toRelativeString(root).replace('\\', '/').removeSuffix(".txt").split('/').toList()
             if (!checkSet(CompilationState.stoplist, parts) && !checkSet(CompilationState.domains, parts)) {

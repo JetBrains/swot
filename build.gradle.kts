@@ -9,6 +9,7 @@ plugins {
 
 repositories {
     mavenCentral()
+    maven(url = "https://maven-central-eu.storage-download.googleapis.com/maven2")
 }
 
 dependencies {
