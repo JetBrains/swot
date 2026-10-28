@@ -1,0 +1,10 @@
+호서대학교
+Hoseo University
+
+### School Information
+- **School Name:** Hoseo University (호서대학교)
+- **Official Website:** https://hoseo.ac.kr
+- **Domain to Add:** hoseo.edu
+
+### Description
+This PR adds the domain `hoseo.edu` for Hoseo University in South Korea to recognize student email addresses ending in `vision.hoseo.edu`.
