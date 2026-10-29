@@ -237,7 +237,6 @@ hawkeyecollege.edu
 hawkmail.hccfl.edu
 haywood.edu
 hendrix.edu
-highline.edu
 hindscc.edu
 hocking.edu
 holmescc.edu
@@ -2068,3 +2067,9 @@ vuv.hr
 nuv.ac.in
 ssmiet.ac.in
 unifeso.com.vc
+dusol.ac.in
+scholar.aku.edu
+students.berlinsbi.com
+ku.th
+ual.pt
+pucesa.edu.ec

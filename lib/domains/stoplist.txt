@@ -810,7 +810,6 @@ psa.edu.my
 psis.edu.my
 psu.palawan.edu.ph
 puc.tu.edu.np
-pucesa.edu.ec
 pusob.edu.np
 pycharm.ac.cn
 qdul.ch
@@ -1325,7 +1324,6 @@ alumni.sifal.deerwalk.edu.np
 alumni.miu.edu
 dmail.edu.vn
 bethlehem.edu.ps
-ual.pt
 zstmikolow.pl
 kaznaru.edu.kz
 vtideinze.be
@@ -1486,3 +1484,12 @@ amg.sch.ae
 ar-lessines.be
 perins.hants.sch.uk
 kp.ac.rw
+365.udru.ac.th
+alumni.trentu.ca
+alumni.ucla.edu
+unilodz.eu
+alumni-ieb.es
+binusian.org
+vjis.edu.vn
+okcx.edu.rs
+priyo.edu.pl
