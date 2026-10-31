@@ -943,7 +943,6 @@ stu.hardin.kyschools.us
 stu.haust.edu.cn
 stu.haut.edu.cn
 stu.hcnu.edu.cn
-stu.hebmu.edu.cn
 stu.hnie.edu.cn
 stu.hnucm.edu.cn
 stu.howardcollege.edu
