@@ -980,6 +980,7 @@ alumnos.uninorte.edu.py
 mec.edu.py
 aja.edu.qa
 palloimre.ro
+proton.mail
 student.spiruharet.ro
 student.ugal.ro
 student.uoradea.ro
