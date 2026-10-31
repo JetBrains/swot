@@ -49,6 +49,22 @@ class SwotTest : TestCase() {
         assertEquals(true, isAcademic("lee@acmt.ac.ir"))
     }
 
+    fun testUgmDomain() {
+        assertTrue(isAcademic("student@mail.ugm.ac.id"))
+        assertTrue(isAcademic("STUDENT@MAIL.UGM.AC.ID"))
+        assertTrue(isAcademic("mail.ugm.ac.id"))
+        assertTrue(findSchoolNames("student@mail.ugm.ac.id").contains("Universitas Gadjah Mada"))
+        assertTrue(findSchoolNames("student@mail.ugm.ac.id").contains("Gadjah Mada University"))
+
+        // ugm.ac.id itself is listed in lib/domains/abused.txt and must stay excluded
+        assertFalse(isAcademic("staff@ugm.ac.id"))
+        assertFalse(isAcademic("ugm.ac.id"))
+
+        // unrelated domains must not be accepted
+        assertFalse(isAcademic("student@mail.ugm.ac.id.example.com"))
+        assertFalse(isAcademic("student@mail.ugm.ac.id.evil.com"))
+    }
+
     fun testSchoolNames() {
         assertTrue(findSchoolNames("lreilly@cs.strath.ac.uk").contains("University of Strathclyde"))
         assertTrue(findSchoolNames("lreilly@cs.strath.ac.uk").contains("uka tarsadia university,bardoli"))
