@@ -965,7 +965,6 @@ stu.nun.edu.cn
 stu.nwupl.edu.cn
 stu.owosso.k12.mi.us
 stu.peihua.edu.cn
-stu.qlu.edu.cn
 stu.scott.kyschools.us
 stu.scu.edu.cn
 stu.sdnu.edu.cn
