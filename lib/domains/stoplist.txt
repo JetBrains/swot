@@ -1494,3 +1494,11 @@ vjis.edu.vn
 okcx.edu.rs
 priyo.edu.pl
 alumni.eiu.edu.vn
+alumno.uned.es
+giant.cos.edu
+mail.vnu.edu.tw
+miaomiaowu.sites.pomona.edu
+ump.ac.ma
+usfca.edu
+wyd.share.library.harvard.edu
+ync.ac.kr
