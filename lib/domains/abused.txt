@@ -491,7 +491,6 @@ std.women.asu.edu.eg
 stud.cu.edu.eg
 student.eelu.edu.eg
 suez.edu.eg
-tanta.edu.eg
 email
 siswa.email
 acarballeira.es
