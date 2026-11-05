@@ -1494,3 +1494,5 @@ vjis.edu.vn
 okcx.edu.rs
 priyo.edu.pl
 alumni.eiu.edu.vn
+pcru.ac.th
+sanambrosio.ed.cr
