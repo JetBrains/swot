@@ -436,7 +436,6 @@ hiete.hu
 hncj.edu.cn
 hndx.ac.cn
 hnie.edu.cn
-hnit.ed.cn
 horizon.auvk.ch
 horizon.ovan.in
 horizon.pertha.de
@@ -1499,3 +1498,4 @@ miaomiaowu.sites.pomona.edu
 wyd.share.library.harvard.edu
 pcru.ac.th
 sanambrosio.ed.cr
+ed.cn
