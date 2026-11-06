@@ -1494,5 +1494,10 @@ vjis.edu.vn
 okcx.edu.rs
 priyo.edu.pl
 alumni.eiu.edu.vn
+giant.cos.edu
+mail.vnu.edu.tw
+miaomiaowu.sites.pomona.edu
+wyd.share.library.harvard.edu
+ync.ac.kr
 pcru.ac.th
 sanambrosio.ed.cr
