@@ -2071,3 +2071,6 @@ students.berlinsbi.com
 ku.th
 ual.pt
 pucesa.edu.ec
+mail.vnu.edu.tw
+ync.ac.kr
+ump.ac.ma
