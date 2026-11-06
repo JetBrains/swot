@@ -1315,7 +1315,7 @@ skku.edu
 uces.edu.ar
 bcu.ac.kr
 sjsu.edu
-mail.utoronto.ca
+utoronto.ca
 mwu.ac.kr
 caledonian.ac.uk
 itsjapon.edu.ec
