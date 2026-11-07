@@ -210,7 +210,6 @@ staff.bible.ac.kr
 bii.ac
 bishanoi.net
 bit-edu.hu
-bit.edu.cn
 bitzh.edu.cn
 bjdx.ac.cn
 bjlg.ac.cn
