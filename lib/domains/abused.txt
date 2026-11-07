@@ -491,7 +491,6 @@ std.women.asu.edu.eg
 stud.cu.edu.eg
 student.eelu.edu.eg
 suez.edu.eg
-tanta.edu.eg
 email
 siswa.email
 acarballeira.es
@@ -573,7 +572,6 @@ students.smanra.sch.id
 students.uajy.ac.id
 students.ukdw.ac.id
 students.um.ac.id
-ugm.ac.id
 uin-alauddin.ac.id
 uin-suka.ac.id
 umkt.ac.id
@@ -1317,7 +1315,7 @@ skku.edu
 uces.edu.ar
 bcu.ac.kr
 sjsu.edu
-mail.utoronto.ca
+utoronto.ca
 mwu.ac.kr
 caledonian.ac.uk
 itsjapon.edu.ec
@@ -2073,3 +2071,6 @@ students.berlinsbi.com
 ku.th
 ual.pt
 pucesa.edu.ec
+mail.vnu.edu.tw
+ync.ac.kr
+ump.ac.ma
