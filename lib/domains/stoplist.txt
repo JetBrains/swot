@@ -983,7 +983,6 @@ stu.tjcu.edu.cn
 stu.twghwflc.edu.hk
 stu.ujn.edu.cn
 stu.wxic.edu.cn
-stu.xaau.edu.cn
 stu.xhsysu.edu.cn
 stu.xhu.edu.cn
 stu.xidian.edu.cn
