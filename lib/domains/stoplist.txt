@@ -1506,3 +1506,4 @@ apps.district833.org
 pharmacy.zu.edu.eg
 anu.edu.jo
 gms.ndhu.edu.tw
+hactech.edu.vn
