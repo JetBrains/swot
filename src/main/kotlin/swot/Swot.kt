@@ -1,6 +1,7 @@
 package swot
 
 import java.io.File
+import java.net.URI
 
 fun isAcademic(email: String): Boolean {
     val parts = domainParts(email)
@@ -42,7 +43,14 @@ private fun findSchoolNames(parts: List<String>): List<String> {
 }
 
 private fun domainParts(emailOrDomain: String): List<String> {
-    return emailOrDomain.trim().lowercase().substringAfter('@').substringAfter("://").substringBefore(':').split('.').reversed()
+    val input = emailOrDomain.trim().lowercase()
+    val domain = if ("://" in input) {
+        // Only the host identifies a URL's domain; paths and queries may contain '@'.
+        runCatching { URI(input).host }.getOrNull().orEmpty()
+    } else {
+        input.substringAfter('@').substringBefore(':')
+    }
+    return domain.split('.').reversed()
 }
 
 internal fun checkSet(set: Set<String>, parts: List<String>): Boolean {
