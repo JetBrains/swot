@@ -49,6 +49,24 @@ class SwotTest : TestCase() {
         assertEquals(true, isAcademic("lee@acmt.ac.ir"))
     }
 
+    fun testWebsiteUrlsUseTheHostOnly() {
+        // Paths, queries, and fragments must not affect academic-domain matching.
+        assertTrue(isAcademic("https://www.stanford.edu/academics?source=search#overview"))
+        assertTrue(isAcademic("https://www.stanford.edu:443/academics"))
+        assertEquals("Stanford University", findSchoolNames("https://www.stanford.edu/academics").single())
+
+        // A university email address appearing in a nonacademic URL is not its host.
+        assertFalse(isAcademic("https://example.com/path/student@stanford.edu"))
+        assertFalse(isAcademic("https://example.com/?next=student@stanford.edu"))
+        assertEquals(0, findSchoolNames("https://example.com/?next=student@stanford.edu").size)
+
+        // URL userinfo and content after the hostname must not impersonate a university.
+        assertFalse(isAcademic("https://stanford.edu@example.com/"))
+        assertTrue(isAcademic("https://www.stanford.edu/path/user@example.com"))
+        assertFalse(isAcademic("https://stanford.edu.evil.example/path"))
+        assertFalse(isAcademic("https://www.stanford.edu:invalid/path"))
+    }
+
     fun testSchoolNames() {
         assertTrue(findSchoolNames("lreilly@cs.strath.ac.uk").contains("University of Strathclyde"))
         assertTrue(findSchoolNames("lreilly@cs.strath.ac.uk").contains("uka tarsadia university,bardoli"))
