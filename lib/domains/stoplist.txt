@@ -974,7 +974,6 @@ stu.siva.edu.cn
 stu.sqmc.edu.cn
 stu.sqxy.edu.cn
 stu.sumhs.edu.cn
-stu.suse.edu.cn
 stu.swun.edu.cn
 stu.sxau.edu.cn
 stu.sxit.edu.cn
