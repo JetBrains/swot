@@ -1507,3 +1507,5 @@ pharmacy.zu.edu.eg
 anu.edu.jo
 gms.ndhu.edu.tw
 hactech.edu.vn
+ms.shu.ac.kr
+nesc.edu.tt
