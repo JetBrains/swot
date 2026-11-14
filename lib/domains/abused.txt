@@ -1536,7 +1536,6 @@ lyceum.lk
 edu.pucrs.br
 usm.cl
 kentech.ac.kr
-unmuhpnk.ac.id
 uzambeze.ac.mz
 galata.edu.tr
 alu.uap.edu.pe
