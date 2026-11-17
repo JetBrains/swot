@@ -464,7 +464,6 @@ csi.edu.eg
 dmu.edu.eg
 domazhermedicine.edu.eg
 eelu.edu.eg
-el-eng.menofia.edu.eg
 eng.sohag.edu.eg
 fagr.bu.edu.eg
 fapa.bu.edu.eg
