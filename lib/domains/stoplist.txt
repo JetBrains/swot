@@ -1527,3 +1527,5 @@ tanta.edu.eg
 office365.ulisboa.pt
 ulisboa.pt
 mitust.edu.tw
+stu.tnue.edu.vn
+udontech.ac.th
