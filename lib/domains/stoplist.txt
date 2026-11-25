@@ -1539,3 +1539,4 @@ g.snu.ac.kr
 alumni.uwosh.edu
 alumni.bac.edu
 tsinghua.org.cn
+aeu.edu.my
