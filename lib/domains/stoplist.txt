@@ -1546,3 +1546,5 @@ chuyenthaibinh.edu.vn
 mist.ac.bd
 madiasu.onmicrosoft.com
 studentmail.fsfv.bg.ac.rs
+teams.uni-sopron.hu
+alum.kfupm.edu.sa
