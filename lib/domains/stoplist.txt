@@ -1549,3 +1549,4 @@ studentmail.fsfv.bg.ac.rs
 teams.uni-sopron.hu
 alum.kfupm.edu.sa
 dlevh.com
+alumni.sysu.edu.cn
